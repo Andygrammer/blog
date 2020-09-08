@@ -208,7 +208,7 @@ Live streaming of the following topics: data science, computer programming, game
 
 ### AWARDS/ACHIEVEMENTS
 
-2019 -- USP Course Subject: Computational Intelligence (TOP 2 - Grade A)
+2019 -- USP Course Subject: Computational Intelligence (TOP 2 -- Grade A)
 
 2018 -- EY Gold Standard: highest recognition for performance on projects
 
