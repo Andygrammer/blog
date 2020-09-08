@@ -10,9 +10,9 @@ Last update: **07/09/2020**
 <p align="center"> Apply for: <b>Data Scientist</b> </p>
 
 ### CONTACT
-![Email Logo](https://image.flaticon.com/icons/svg/126/126516.svg){:height="30px" width="30px" align="left"} [andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
+![Email Logo](https://image.flaticon.com/icons/svg/126/126516.svg){:height="30px" width="30px" align="left"} [mailto: andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
 
-![Linkedin Logo](https://image.flaticon.com/icons/svg/1051/1051384.svg){:height="30px" width="30px" align="left"} [linkedin.com/in/andré-batemarchi](linkedin.com/in/andré-batemarchi)
+![Linkedin Logo](https://image.flaticon.com/icons/svg/1051/1051384.svg){:height="30px" width="30px" align="left"} [linkedin.com/in/andré-batemarchi](https://linkedin.com/in/andré-batemarchi)
 
 ![GitHub Logo](https://image.flaticon.com/icons/svg/1051/1051377.svg){:height="30px" width="30px" align="left"} [@Andygrammer](https://github.com/Andygrammer/)
 
@@ -96,11 +96,11 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 
 ![EY Logo](https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg){:height="100px" width="130px" align="left"}
 
+\
+\
+\
+\
 **EY**
-
-\
-\
-\
 
 *RPA Consultant*
 
@@ -112,11 +112,11 @@ Robotic Process Automation (RPA) developer (Blue Prism and Pega Systems tools)
 
 ![BRQ Logo](https://blog.brq.com/wp-content/uploads/2020/04/94820a1cd955-Logo_BRQ_versao_1__1_.png){:height="100px" width="130px" align="left"}
 
+\
+\
+\
+\
 **BRQ**
-
-\
-\
-\
 
 *Software Developer*
 
@@ -136,6 +136,7 @@ Dashboard development using Splunk
 
 ![USP Logo](https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg){:height="100px" width="130px" align="left"}
 
+\
 \
 \
 \
@@ -239,7 +240,7 @@ Live streaming of the following topics: data science, computer programming, game
 
 2020 -- [University of California, Davis -- SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/BH998JBTPH2J)
 
-2017 -- Java Programming: [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/account/accomplishments/verify/LYP2NSR4NKZY)
+2017 -- Java Programming: [nstituto Tecnológico de Aeronáutica -- Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/account/accomplishments/verify/LYP2NSR4NKZY)
 
 \
 <img src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" height="28" width="100">
