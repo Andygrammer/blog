@@ -5,12 +5,12 @@ permalink: /about/
 ---
 Last update: **07/09/2020**
 
-<div align="center"> <h2> <b> André Marinho </b> </h2> </div>
-Brazilian, single, 27 years old
-<div align="center"> Apply for: <b>Data Scientist</b> </div>
+<center> **André Marinho** </center>
+<center> Brazilian, single, 27 years old </center>
+<center> Apply for: <b>Data Scientist</b> </center>
 
 ### CONTACT
-<img src="https://image.flaticon.com/icons/svg/126/126516.svg" height="30" width="30">[andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
+<img src="https://image.flaticon.com/icons/svg/126/126516.svg" height="30" width="30" alt="test">[andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
 
 <img src="https://image.flaticon.com/icons/svg/1051/1051384.svg" height="30" width="30"> [linkedin.com/in/andré-batemarchi](linkedin.com/in/andré-batemarchi)
 
@@ -126,7 +126,7 @@ Dashboard development using Splunk
 
 ### ACADEMIC EXPERIENCE
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg" height="100" width="100" align="left">
+<left> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg" height="100" width="100"> </left> 
 
 **University of São Paulo (USP)**
 
@@ -196,7 +196,7 @@ Live streaming of the following topics: data science, computer programming, game
 
 ### COURSES
 
-<div align="center"> <img src="http://seekvectorlogo.com/wp-content/uploads/2019/01/coursera-vector-logo-small.png" height="100" width="100"> </div>
+<img src="http://seekvectorlogo.com/wp-content/uploads/2019/01/coursera-vector-logo-small.png" height="100" width="100">
 
 2020 -- [Johns Hopkins Data Science Specialization Courses](https://www.coursera.org/account/accomplishments/records/M5QQQ9PUTURA)
 
@@ -228,11 +228,11 @@ Live streaming of the following topics: data science, computer programming, game
 
 2017 -- Java Programming: [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/account/accomplishments/verify/LYP2NSR4NKZY)
 
-<div align="center"> <img src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" height="28" width="100"> </div>
+<img src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" height="28" width="100">
 
 2020 -- Data Engineering: [Formação Engenheiro de Dados: Domine o Big Data!](http://ude.my/UC-752683b7-a06b-49df-b37f-2f47e2b6f064)
 
-<div align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="39" width="100"> </div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="39" width="100">
 
 2020 -- [Python Course](https://www.kaggle.com/learn/certification/andremarin/python)
 
