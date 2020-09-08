@@ -10,7 +10,7 @@ Last update: **07/09/2020**
 <div align="center"> Apply for: <b>Data Scientist</b> </div>
 
 ### CONTACT
-<img src="https://image.flaticon.com/icons/svg/126/126516.svg" height="30" width="30"> [andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
+<img src="https://image.flaticon.com/icons/svg/126/126516.svg" height="30" width="30">[andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
 
 <img src="https://image.flaticon.com/icons/svg/1051/1051384.svg" height="30" width="30"> [linkedin.com/in/andré-batemarchi](linkedin.com/in/andré-batemarchi)
 
@@ -94,7 +94,7 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 
 ### PROFESSIONAL EXPERIENCE
 
-<img src="https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg" height="100" width="100">
+<div align="left"> <img src="https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg" height="100" width="130"> </div>
 
 **EY**
 
@@ -106,7 +106,7 @@ São Paulo, Brazil
 
 Robotic Process Automation (RPA) developer (Blue Prism and Pega Systems tools)
 
-<img src="https://blog.brq.com/wp-content/uploads/2020/04/94820a1cd955-Logo_BRQ_versao_1__1_.png" height="100" width="100">
+<div align="left"> <img src="https://blog.brq.com/wp-content/uploads/2020/04/94820a1cd955-Logo_BRQ_versao_1__1_.png" height="100" width="130"> </div>
 
 **BRQ**
 
@@ -126,7 +126,7 @@ Dashboard development using Splunk
 
 ### ACADEMIC EXPERIENCE
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg" height="100" width="100">
+<div align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg" height="100" width="100"> </div>
 
 **University of São Paulo (USP)**
 
