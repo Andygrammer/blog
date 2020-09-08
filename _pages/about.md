@@ -10,11 +10,9 @@ Last update: **07/09/2020**
 <div align="center"> Apply for: <b>Data Scientist</b> </div>
 
 ### CONTACT
-<div align="center"> <img src="https://image.flaticon.com/icons/svg/126/126516.svg" height="15" width="15"> </div>[andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
+<img src="https://image.flaticon.com/icons/svg/126/126516.svg" height="15" width="15"> [andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
 
-![E-mail Logo](https://image.flaticon.com/icons/svg/126/126516.svg){ :width="3%" } [andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
-
-![Linkedin Logo](https://image.flaticon.com/icons/svg/1051/1051384.svg){:width=3% } [linkedin.com/in/andré-batemarchi](linkedin.com/in/andré-batemarchi)
+<img src="https://image.flaticon.com/icons/svg/1051/1051384.svg" height="15" width="15"> [linkedin.com/in/andré-batemarchi](linkedin.com/in/andré-batemarchi)
 
 ![GitHub Logo](https://image.flaticon.com/icons/svg/1051/1051377.svg){ width=3% } [\@Andygrammer](https://github.com/Andygrammer/)
 
