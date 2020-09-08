@@ -282,5 +282,19 @@ Kaggle: Intermediate Machine Learning
 
 [My Portfolio](https://andygrammer.github.io/blog/)
 
+<!--
+
+* [P1 -- Insights Project](link)
+
+* [P2 -- Data Engineering Project](link)
+
+* [P3 -- Machine Learning Project](link)
+
+* [P4 -- Data Science Project 001](link)
+
+* [P5 -- Data Science Project 002](link)
+
+-->
+
 
 
