@@ -12,15 +12,15 @@ Last update: **07/09/2020**
 ### CONTACT
 ![Email Logo](https://image.flaticon.com/icons/svg/126/126516.svg){:height="30px" width="30px" align="left"} [andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
 
-<img src="https://image.flaticon.com/icons/svg/1051/1051384.svg" height="30" width="30"> [linkedin.com/in/andré-batemarchi](linkedin.com/in/andré-batemarchi)
+![Linkedin Logo](https://image.flaticon.com/icons/svg/1051/1051384.svg){:height="30px" width="30px" align="left"} [linkedin.com/in/andré-batemarchi](linkedin.com/in/andré-batemarchi)
 
-<img src="https://image.flaticon.com/icons/svg/1051/1051377.svg" height="30" width="30"> [\@Andygrammer](https://github.com/Andygrammer/)
+![GitHub Logo](https://image.flaticon.com/icons/svg/1051/1051377.svg){:height="30px" width="30px" align="left"} [\@Andygrammer](https://github.com/Andygrammer/)
 
-<img src="https://www.iconfinder.com/data/icons/logos-and-brands-3/512/189_Kaggle_logo_logos-512.png" height="30" width="30"> [\@andremarin](https://www.kaggle.com/andremarin)
+![Kaggle Logo](https://www.iconfinder.com/data/icons/logos-and-brands-3/512/189_Kaggle_logo_logos-512.png){:height="30px" width="30px" align="left"} [\@andremarin](https://www.kaggle.com/andremarin)
 
-<img src="https://www.iconfinder.com/data/icons/logos-and-brands-3/512/160_Hackerrank_logo_logos-512.png" height="30" width="30"> [\@and201456](https://www.hackerrank.com/and201456?hr_r=1)
+![HackerRank Logo](https://www.iconfinder.com/data/icons/logos-and-brands-3/512/160_Hackerrank_logo_logos-512.png){:height="30px" width="30px" align="left"} [\@and201456](https://www.hackerrank.com/and201456?hr_r=1)
 
-<img src="https://image.flaticon.com/icons/svg/684/684809.svg" height="30" width="30"> São Paulo -- Brazil
+![HackerRank Logo](https://image.flaticon.com/icons/svg/684/684809.svg){:height="30px" width="30px" align="left"} São Paulo -- Brazil
 
 ---
 
@@ -94,7 +94,7 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 
 ### PROFESSIONAL EXPERIENCE
 
-<img src="https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg" height="100" width="130">
+![EY Logo](https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg){:height="100px" width="130px" align="left"}
 
 **EY**
 
@@ -106,7 +106,7 @@ São Paulo, Brazil
 
 Robotic Process Automation (RPA) developer (Blue Prism and Pega Systems tools)
 
-<img src="https://blog.brq.com/wp-content/uploads/2020/04/94820a1cd955-Logo_BRQ_versao_1__1_.png" height="100" width="130">
+![BRQ Logo](https://blog.brq.com/wp-content/uploads/2020/04/94820a1cd955-Logo_BRQ_versao_1__1_.png){:height="100px" width="130px" align="left"}
 
 **BRQ**
 
@@ -126,7 +126,7 @@ Dashboard development using Splunk
 
 ### ACADEMIC EXPERIENCE
 
-![USP Logo](https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg.png){:height="100px" width="130px" align="left"}
+![USP Logo](https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg){:height="100px" width="130px" align="left"}
 
 **University of São Paulo (USP)**
 
@@ -175,7 +175,7 @@ Live streaming of the following topics: data science, computer programming, game
 ![OCA Logo 1](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px" align="left"}
 ![OCA Logo 2](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px" align="left"}
 ![Cisco Logo](https://3m03xw3xmaeb36t27t2y40of-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/CCENT.jpg){:height="100px" width="100px" align="left"}
-  
+\
 * [OCA Java SE 8 Programmer](https://www.youracclaim.com/badges/a7a7f212-522d-4973-9dda-6c8d9c4eeb66)
 * [OCA SQL Certified Expert](https://education.oracle.com/pt_BR/oracle-database-sql-certified-associate/trackp_457)
 * [Cisco -- Interconnecting Cisco Networking Devices Part 1 (640-822 ICND1) 1](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/100-105-icnd1.html)
@@ -227,13 +227,13 @@ Live streaming of the following topics: data science, computer programming, game
 2020 -- [University of California, Davis -- SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/BH998JBTPH2J)
 
 2017 -- Java Programming: [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/account/accomplishments/verify/LYP2NSR4NKZY)
-
-  <img src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" height="28" width="100">
-
+\
+<img src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" height="28" width="100">
+\
 2020 -- Data Engineering: [Formação Engenheiro de Dados: Domine o Big Data!](http://ude.my/UC-752683b7-a06b-49df-b37f-2f47e2b6f064)
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="39" width="100">
-
+\
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="39" width="100">
+\
 2020 -- [Python Course](https://www.kaggle.com/learn/certification/andremarin/python)
 
 2020 -- [Intro to Machine Learning](https://www.kaggle.com/learn/certification/andremarin/intro-to-machine-learning)
