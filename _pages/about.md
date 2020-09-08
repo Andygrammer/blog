@@ -14,13 +14,14 @@ Last update: **07/09/2020**
 
 <img src="https://image.flaticon.com/icons/svg/1051/1051384.svg" height="15" width="15"> [linkedin.com/in/andré-batemarchi](linkedin.com/in/andré-batemarchi)
 
-![GitHub Logo](https://image.flaticon.com/icons/svg/1051/1051377.svg){ width=3% } [\@Andygrammer](https://github.com/Andygrammer/)
+<img src="https://image.flaticon.com/icons/svg/1051/1051377.svg" height="15" width="15"> [\@Andygrammer](https://github.com/Andygrammer/)
 
-![Kaggle Logo](https://www.iconfinder.com/data/icons/logos-and-brands-3/512/189_Kaggle_logo_logos-512.png){ width=3% } [\@andremarin](https://www.kaggle.com/andremarin)
+<img src="https://www.iconfinder.com/data/icons/logos-and-brands-3/512/189_Kaggle_logo_logos-512.png" height="15" width="15"> [\@andremarin](https://www.kaggle.com/andremarin)
 
-![HackerRank Logo](https://www.iconfinder.com/data/icons/logos-and-brands-3/512/160_Hackerrank_logo_logos-512.png){ width=3% } [\@and201456](https://www.hackerrank.com/and201456?hr_r=1)
+<img src="https://www.iconfinder.com/data/icons/logos-and-brands-3/512/160_Hackerrank_logo_logos-512.png" height="15" width="15"> [\@and201456](https://www.hackerrank.com/and201456?hr_r=1)
 
-![Localization Logo](https://image.flaticon.com/icons/svg/684/684809.svg){ width=3% } São Paulo -- Brazil
+
+<img src="https://image.flaticon.com/icons/svg/684/684809.svg" height="15" width="15"> São Paulo -- Brazil
 
 ---
 
