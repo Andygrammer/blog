@@ -3,14 +3,15 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-[^1].
+Last update: **07/09/2020**
 
 <div align="center"> <h1> <b> André Marinho </b> </h1> </div>
-<div align="center"> <h4> Brazilian, single, 27 years old </b> </h4> </div>
-<div align="center"> <h4> <b> Apply for: </b> Data Scientist </h4> </div>
+<div align="center"> Brazilian, single, 27 years old </div> <br />
+<div align="center"> Apply for: </div>
+<div align="center"> <b>Data Scientist</b> </div>
 
 ### CONTACT
-![E-mail Logo](https://image.flaticon.com/icons/svg/126/126516.svg){ width=3% } [andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
+![E-mail Logo](https://image.flaticon.com/icons/svg/126/126516.svg){ width:3% } [andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
 
 ![Linkedin Logo](https://image.flaticon.com/icons/svg/1051/1051384.svg){ width=3% } [linkedin.com/in/andré-batemarchi](linkedin.com/in/andré-batemarchi)
 
@@ -255,10 +256,6 @@ Kaggle: Intermediate Machine Learning
 ### PROJECTS
 
 https://andygrammer.github.io/blog/
-
-
-
-[^1]: Last update: **07/09/2020**
 
 
 
