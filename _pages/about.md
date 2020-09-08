@@ -166,7 +166,7 @@ São Paulo, Brazil
 
 *Institution Keeper*
 
-*01/2010--present*
+*01\/2010--present*
 
 Donation of clothes, shoes, and toys for several campaigns targeted the patients of the institution
 
@@ -250,7 +250,7 @@ Live streaming of the following topics: data science, computer programming, game
 
 2020 -- [University of California, Davis -- SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/BH998JBTPH2J)
 
-2017 -- Java Programming: [nstituto Tecnológico de Aeronáutica -- Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/account/accomplishments/verify/LYP2NSR4NKZY)
+2017 -- Java Programming: [Instituto Tecnológico de Aeronáutica -- Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/account/accomplishments/verify/LYP2NSR4NKZY)
 
 \
 <img src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" height="28" width="100">
