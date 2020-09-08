@@ -166,7 +166,7 @@ São Paulo, Brazil
 
 *Institution Keeper*
 
-*01\/2010--present*
+*01/2010--present*
 
 Donation of clothes, shoes, and toys for several campaigns targeted the patients of the institution
 
