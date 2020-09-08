@@ -5,12 +5,12 @@ permalink: /about/
 ---
 Last update: **07/09/2020**
 
-<center> **André Marinho** </center>
+### <center> André Marinho </center>
 <center> Brazilian, single, 27 years old </center>
 <center> Apply for: <b>Data Scientist</b> </center>
 
 ### CONTACT
-<img src="https://image.flaticon.com/icons/svg/126/126516.svg" height="30" width="30" alt="test">[andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
+<img src="https://image.flaticon.com/icons/svg/126/126516.svg" height="30" width="30">[andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
 
 <img src="https://image.flaticon.com/icons/svg/1051/1051384.svg" height="30" width="30"> [linkedin.com/in/andré-batemarchi](linkedin.com/in/andré-batemarchi)
 
@@ -26,7 +26,7 @@ Last update: **07/09/2020**
 
 ### EDUCATION
 
-![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg){ width=15% }
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg" height="100" width="130">
 
 **M.Sc. in Information Systems**
 
@@ -42,7 +42,7 @@ Research area: Combinatorial Optimization
 
 GPA: 3.0
 
-![](https://unipeadvilamaria.com.br/wp-content/uploads/2018/11/cropped-icone.png){ width=15% }
+<img src="https://unipeadvilamaria.com.br/wp-content/uploads/2018/11/cropped-icone.png" height="100" width="130">
 
 **BA in Computer Science **
 
@@ -94,7 +94,7 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 
 ### PROFESSIONAL EXPERIENCE
 
-<img src="https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg" height="100" width="130"  align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg" height="100" width="130">
 
 **EY**
 
@@ -106,7 +106,7 @@ São Paulo, Brazil
 
 Robotic Process Automation (RPA) developer (Blue Prism and Pega Systems tools)
 
-<img src="https://blog.brq.com/wp-content/uploads/2020/04/94820a1cd955-Logo_BRQ_versao_1__1_.png" height="100" width="130" align="left">
+<img src="https://blog.brq.com/wp-content/uploads/2020/04/94820a1cd955-Logo_BRQ_versao_1__1_.png" height="100" width="130">
 
 **BRQ**
 
@@ -126,7 +126,7 @@ Dashboard development using Splunk
 
 ### ACADEMIC EXPERIENCE
 
-<left> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg" height="100" width="100"> </left> 
+<div align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg" height="100" width="100"> </div> 
 
 **University of São Paulo (USP)**
 
@@ -172,8 +172,8 @@ Live streaming of the following topics: data science, computer programming, game
 
 ### CERTIFICATIONS
 
-![OCA Logo 1](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){ width=15% }
-![OCA Logo 2](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){ width=15% } 
+![OCA Logo 1](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png =50x50)
+![OCA Logo 2](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="36px" width="36px"}.
 ![Cisco Logo](https://3m03xw3xmaeb36t27t2y40of-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/CCENT.jpg){ width=15% } 
 
 * [OCA Java SE 8 Programmer](https://www.youracclaim.com/badges/a7a7f212-522d-4973-9dda-6c8d9c4eeb66)
