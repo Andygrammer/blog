@@ -98,6 +98,10 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 
 **EY**
 
+\
+\
+\
+
 *RPA Consultant*
 
 *12/2017--05/2018*
@@ -109,6 +113,10 @@ Robotic Process Automation (RPA) developer (Blue Prism and Pega Systems tools)
 ![BRQ Logo](https://blog.brq.com/wp-content/uploads/2020/04/94820a1cd955-Logo_BRQ_versao_1__1_.png){:height="100px" width="130px" align="left"}
 
 **BRQ**
+
+\
+\
+\
 
 *Software Developer*
 
@@ -128,6 +136,7 @@ Dashboard development using Splunk
 
 ![USP Logo](https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg){:height="100px" width="130px" align="left"}
 
+\
 \
 \
 **University of São Paulo (USP)**
