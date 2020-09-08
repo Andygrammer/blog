@@ -126,7 +126,7 @@ Dashboard development using Splunk
 
 ### ACADEMIC EXPERIENCE
 
-<div align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg" height="100" width="130"> </div> 
+![USP Logo](https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg.png){:height="100px" width="130px" align="left"}
 
 **University of São Paulo (USP)**
 
@@ -175,7 +175,7 @@ Live streaming of the following topics: data science, computer programming, game
 ![OCA Logo 1](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px" align="left"}
 ![OCA Logo 2](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px" align="left"}
 ![Cisco Logo](https://3m03xw3xmaeb36t27t2y40of-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/CCENT.jpg){:height="100px" width="100px" align="left"}
-
+  
 * [OCA Java SE 8 Programmer](https://www.youracclaim.com/badges/a7a7f212-522d-4973-9dda-6c8d9c4eeb66)
 * [OCA SQL Certified Expert](https://education.oracle.com/pt_BR/oracle-database-sql-certified-associate/trackp_457)
 * [Cisco -- Interconnecting Cisco Networking Devices Part 1 (640-822 ICND1) 1](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/100-105-icnd1.html)
@@ -228,11 +228,11 @@ Live streaming of the following topics: data science, computer programming, game
 
 2017 -- Java Programming: [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/account/accomplishments/verify/LYP2NSR4NKZY)
 
-<img src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" height="28" width="100">
+  <img src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" height="28" width="100">
 
 2020 -- Data Engineering: [Formação Engenheiro de Dados: Domine o Big Data!](http://ude.my/UC-752683b7-a06b-49df-b37f-2f47e2b6f064)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="39" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="39" width="100">
 
 2020 -- [Python Course](https://www.kaggle.com/learn/certification/andremarin/python)
 
