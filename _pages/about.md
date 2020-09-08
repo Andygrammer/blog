@@ -202,7 +202,7 @@ Live streaming of the following topics: data science, computer programming, game
 &nbsp;
 * [OCA Java SE 8 Programmer](https://www.youracclaim.com/badges/a7a7f212-522d-4973-9dda-6c8d9c4eeb66)
 * [OCA SQL Certified Expert](https://education.oracle.com/pt_BR/oracle-database-sql-certified-associate/trackp_457)
-* [Cisco -- Interconnecting Cisco Networking Devices Part 1 (640-822 ICND1) 1](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/100-105-icnd1.html)
+* [Cisco -- Interconnecting Cisco Networking Devices Part 1 (640-822 ICND1)](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/100-105-icnd1.html)
 
 ---
 
