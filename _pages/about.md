@@ -5,12 +5,12 @@ permalink: /about/
 ---
 Last update: **07/09/2020**
 
-<center> ANDRÉ MARINHO </center>
-<p align="justify"> Brazilian, single, 27 years old </p>
-<p align="justify"> Apply for: <b>Data Scientist</b> </p>
+## <center> ANDRÉ MARINHO </center>
+<p align="center"> Brazilian, single, 27 years old </p>
+<div align="center"> Apply for: <b>Data Scientist</b> </div>
 
 ### CONTACT
-![Email Logo](https://image.flaticon.com/icons/svg/126/126516.svg){:height="30px" width="30px"}[andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
+![Email Logo](https://image.flaticon.com/icons/svg/126/126516.svg){:height="30px" width="30px"} [andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
 
 <img src="https://image.flaticon.com/icons/svg/1051/1051384.svg" height="30" width="30"> [linkedin.com/in/andré-batemarchi](linkedin.com/in/andré-batemarchi)
 
@@ -172,7 +172,11 @@ Live streaming of the following topics: data science, computer programming, game
 
 ### CERTIFICATIONS
 
-![OCA Logo 1](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px"} ![OCA Logo 2](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px"} ![Cisco Logo](https://3m03xw3xmaeb36t27t2y40of-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/CCENT.jpg){:height="100px" width="100px"}
+<p float="left">
+   ![OCA Logo 1](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px"}
+   ![OCA Logo 2](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px"}
+   ![Cisco Logo](https://3m03xw3xmaeb36t27t2y40of-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/CCENT.jpg){:height="100px" width="100px"}
+</p>
 
 * [OCA Java SE 8 Programmer](https://www.youracclaim.com/badges/a7a7f212-522d-4973-9dda-6c8d9c4eeb66)
 * [OCA SQL Certified Expert](https://education.oracle.com/pt_BR/oracle-database-sql-certified-associate/trackp_457)
