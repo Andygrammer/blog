@@ -10,6 +10,8 @@ Last update: **07/09/2020**
 <div align="center"> Apply for: <b>Data Scientist</b> </div>
 
 ### CONTACT
+<div align="center"> <img src="https://image.flaticon.com/icons/svg/126/126516.svg" height="15" width="15"> </div>[andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
+
 ![E-mail Logo](https://image.flaticon.com/icons/svg/126/126516.svg){ :width="3%" } [andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
 
 ![Linkedin Logo](https://image.flaticon.com/icons/svg/1051/1051384.svg){:width=3% } [linkedin.com/in/andré-batemarchi](linkedin.com/in/andré-batemarchi)
@@ -228,7 +230,7 @@ Live streaming of the following topics: data science, computer programming, game
 
 2017 -- Java Programming: [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/account/accomplishments/verify/LYP2NSR4NKZY)
 
-<br /> <div align="center"> <img src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" height="28" width="100"> <br />
+<div align="center"> <img src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" height="28" width="100">
 
 2020 -- Data Engineering: [Formação Engenheiro de Dados: Domine o Big Data!](http://ude.my/UC-752683b7-a06b-49df-b37f-2f47e2b6f064)
 
