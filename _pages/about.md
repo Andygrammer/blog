@@ -3,8 +3,9 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
+[^1].
 
-<div align="center"> <h1> <b> André Marinho [^1] </b> </h1> </div>
+<div align="center"> <h1> <b> André Marinho </b> </h1> </div>
 <div align="center"> <h4> Brazilian, single, 27 years old </b> </h4> </div>
 <div align="center"> <h4> <b> Apply for: </b> Data Scientist </h4> </div>
 
