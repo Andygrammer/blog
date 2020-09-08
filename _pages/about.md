@@ -195,7 +195,7 @@ Live streaming of the following topics: data science, computer programming, game
 ![OCA Logo 1](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px" align="left"}
 ![OCA Logo 2](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px" align="left"}
 ![Cisco Logo](https://3m03xw3xmaeb36t27t2y40of-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/CCENT.jpg){:height="100px" width="100px" align="left"}
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 * [OCA Java SE 8 Programmer](https://www.youracclaim.com/badges/a7a7f212-522d-4973-9dda-6c8d9c4eeb66)
 * [OCA SQL Certified Expert](https://education.oracle.com/pt_BR/oracle-database-sql-certified-associate/trackp_457)
 * [Cisco -- Interconnecting Cisco Networking Devices Part 1 (640-822 ICND1) 1](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/100-105-icnd1.html)
