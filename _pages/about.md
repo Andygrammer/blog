@@ -10,15 +10,15 @@ Last update: **07/09/2020**
 <p align="center"> Apply for: <b>Data Scientist</b> </p>
 
 ### CONTACT
-![Email Logo](https://image.flaticon.com/icons/svg/126/126516.svg){:height="30px" width="30px" align="left"} [ andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
+![Email Logo](https://image.flaticon.com/icons/svg/126/126516.svg){:height="30px" width="30px" align="left"} [andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
 
-![Linkedin Logo](https://image.flaticon.com/icons/svg/1051/1051384.svg){:height="30px" width="30px" align="left"} [ linkedin.com/in/andré-batemarchi](linkedin.com/in/andré-batemarchi)
+![Linkedin Logo](https://image.flaticon.com/icons/svg/1051/1051384.svg){:height="30px" width="30px" align="left"} [linkedin.com/in/andré-batemarchi](linkedin.com/in/andré-batemarchi)
 
-![GitHub Logo](https://image.flaticon.com/icons/svg/1051/1051377.svg){:height="30px" width="30px" align="left"} [ @Andygrammer](https://github.com/Andygrammer/)
+![GitHub Logo](https://image.flaticon.com/icons/svg/1051/1051377.svg){:height="30px" width="30px" align="left"} [@Andygrammer](https://github.com/Andygrammer/)
 
-![Kaggle Logo](https://www.iconfinder.com/data/icons/logos-and-brands-3/512/189_Kaggle_logo_logos-512.png){:height="30px" width="30px" align="left"} [ @andremarin](https://www.kaggle.com/andremarin)
+![Kaggle Logo](https://www.iconfinder.com/data/icons/logos-and-brands-3/512/189_Kaggle_logo_logos-512.png){:height="30px" width="30px" align="left"} [@andremarin](https://www.kaggle.com/andremarin)
 
-![HackerRank Logo](https://www.iconfinder.com/data/icons/logos-and-brands-3/512/160_Hackerrank_logo_logos-512.png){:height="30px" width="30px" align="left"} [ @and201456](https://www.hackerrank.com/and201456?hr_r=1)
+![HackerRank Logo](https://www.iconfinder.com/data/icons/logos-and-brands-3/512/160_Hackerrank_logo_logos-512.png){:height="30px" width="30px" align="left"} [@and201456](https://www.hackerrank.com/and201456?hr_r=1)
 
 ![Local Logo](https://image.flaticon.com/icons/svg/684/684809.svg){:height="30px" width="30px" align="left"} São Paulo -- Brazil
 
@@ -127,8 +127,9 @@ Dashboard development using Splunk
 ### ACADEMIC EXPERIENCE
 
 ![USP Logo](https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg){:height="100px" width="130px" align="left"}
-\
 
+\
+\
 **University of São Paulo (USP)**
 
 *Teaching Internship*
@@ -176,6 +177,7 @@ Live streaming of the following topics: data science, computer programming, game
 ![OCA Logo 1](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px" align="left"}
 ![OCA Logo 2](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px" align="left"}
 ![Cisco Logo](https://3m03xw3xmaeb36t27t2y40of-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/CCENT.jpg){:height="100px" width="100px" align="left"}
+
 
 \
 * [OCA Java SE 8 Programmer](https://www.youracclaim.com/badges/a7a7f212-522d-4973-9dda-6c8d9c4eeb66)
