@@ -5,23 +5,22 @@ permalink: /about/
 ---
 Last update: **07/09/2020**
 
-<div align="center"> <h1> <b> André Marinho </b> </h1> </div>
+<div align="center"> <h2> <b> André Marinho </b> </h2> </div>
 <div align="center"> Brazilian, single, 27 years old </div>
 <div align="center"> Apply for: <b>Data Scientist</b> </div>
 
 ### CONTACT
-<img src="https://image.flaticon.com/icons/svg/126/126516.svg" height="15" width="15"> [andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
+<img src="https://image.flaticon.com/icons/svg/126/126516.svg" height="30" width="30"> [andrebatemarchi@outlook.com](andrebatemarchi@outlook.com)
 
-<img src="https://image.flaticon.com/icons/svg/1051/1051384.svg" height="15" width="15"> [linkedin.com/in/andré-batemarchi](linkedin.com/in/andré-batemarchi)
+<img src="https://image.flaticon.com/icons/svg/1051/1051384.svg" height="30" width="30"> [linkedin.com/in/andré-batemarchi](linkedin.com/in/andré-batemarchi)
 
-<img src="https://image.flaticon.com/icons/svg/1051/1051377.svg" height="15" width="15"> [\@Andygrammer](https://github.com/Andygrammer/)
+<img src="https://image.flaticon.com/icons/svg/1051/1051377.svg" height="30" width="30"> [\@Andygrammer](https://github.com/Andygrammer/)
 
-<img src="https://www.iconfinder.com/data/icons/logos-and-brands-3/512/189_Kaggle_logo_logos-512.png" height="15" width="15"> [\@andremarin](https://www.kaggle.com/andremarin)
+<img src="https://www.iconfinder.com/data/icons/logos-and-brands-3/512/189_Kaggle_logo_logos-512.png" height="30" width="30"> [\@andremarin](https://www.kaggle.com/andremarin)
 
-<img src="https://www.iconfinder.com/data/icons/logos-and-brands-3/512/160_Hackerrank_logo_logos-512.png" height="15" width="15"> [\@and201456](https://www.hackerrank.com/and201456?hr_r=1)
+<img src="https://www.iconfinder.com/data/icons/logos-and-brands-3/512/160_Hackerrank_logo_logos-512.png" height="30" width="30"> [\@and201456](https://www.hackerrank.com/and201456?hr_r=1)
 
-
-<img src="https://image.flaticon.com/icons/svg/684/684809.svg" height="15" width="15"> São Paulo -- Brazil
+<img src="https://image.flaticon.com/icons/svg/684/684809.svg" height="30" width="30"> São Paulo -- Brazil
 
 ---
 
@@ -95,7 +94,7 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 
 ### PROFESSIONAL EXPERIENCE
 
-![](https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg){ width=15% }
+<img src="https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg" height="100" width="100">
 
 **EY**
 
@@ -107,7 +106,7 @@ São Paulo, Brazil
 
 Robotic Process Automation (RPA) developer (Blue Prism and Pega Systems tools)
 
-![](https://blog.brq.com/wp-content/uploads/2020/04/94820a1cd955-Logo_BRQ_versao_1__1_.png){ width=15% }
+<img src="https://blog.brq.com/wp-content/uploads/2020/04/94820a1cd955-Logo_BRQ_versao_1__1_.png" height="100" width="100">
 
 **BRQ**
 
@@ -127,7 +126,7 @@ Dashboard development using Splunk
 
 ### ACADEMIC EXPERIENCE
 
-![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg){ width=15% }
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg" height="100" width="100">
 
 **University of São Paulo (USP)**
 
@@ -229,7 +228,7 @@ Live streaming of the following topics: data science, computer programming, game
 
 2017 -- Java Programming: [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/account/accomplishments/verify/LYP2NSR4NKZY)
 
-<div align="center"> <img src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" height="28" width="100">
+<div align="center"> <img src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" height="28" width="100"> </div>
 
 2020 -- Data Engineering: [Formação Engenheiro de Dados: Domine o Big Data!](http://ude.my/UC-752683b7-a06b-49df-b37f-2f47e2b6f064)
 
