@@ -6,7 +6,7 @@ permalink: /about/
 Last update: **07/09/2020**
 
 <div align="center"> <h2> <b> André Marinho </b> </h2> </div>
-<div align="center"> Brazilian, single, 27 years old </div>
+Brazilian, single, 27 years old
 <div align="center"> Apply for: <b>Data Scientist</b> </div>
 
 ### CONTACT
@@ -94,7 +94,7 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 
 ### PROFESSIONAL EXPERIENCE
 
-<div align="left"> <img src="https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg" height="100" width="130"> </div>
+<img src="https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg" height="100" width="130"  align="left">
 
 **EY**
 
@@ -106,7 +106,7 @@ São Paulo, Brazil
 
 Robotic Process Automation (RPA) developer (Blue Prism and Pega Systems tools)
 
-<div align="left"> <img src="https://blog.brq.com/wp-content/uploads/2020/04/94820a1cd955-Logo_BRQ_versao_1__1_.png" height="100" width="130"> </div>
+<img src="https://blog.brq.com/wp-content/uploads/2020/04/94820a1cd955-Logo_BRQ_versao_1__1_.png" height="100" width="130" align="left">
 
 **BRQ**
 
@@ -126,7 +126,7 @@ Dashboard development using Splunk
 
 ### ACADEMIC EXPERIENCE
 
-<div align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg" height="100" width="100"> </div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Webysther_20160310_-_Logo_USP.svg" height="100" width="100" align="left">
 
 **University of São Paulo (USP)**
 
@@ -254,7 +254,7 @@ Kaggle: Intermediate Machine Learning
 
 ### PROJECTS
 
-https://andygrammer.github.io/blog/
+[My Portfolio](https://andygrammer.github.io/blog/)
 
 
 
