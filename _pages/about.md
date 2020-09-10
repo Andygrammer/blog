@@ -242,7 +242,7 @@ Live streaming of the following topics: data science, computer programming, game
 
 9. [Developing Data Products](https://www.coursera.org/account/accomplishments/records/M5QQQ9PUTURA)
 
-2020 -- [deeplearning.ai Specialization -- Course 1: Neural Networks and Deep Learning](???)
+2020 -- [deeplearning.ai Specialization -- Course 1: Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/GFVDER523K6Q)
 
 2020 -- [deeplearning.ai Specialization -- Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](???)
 
