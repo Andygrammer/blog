@@ -244,7 +244,7 @@ Live streaming of the following topics: data science, computer programming, game
 
 2020 -- [deeplearning.ai Specialization -- Course 1: Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/GFVDER523K6Q)
 
-2020 -- [deeplearning.ai Specialization -- Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](???)
+2020 -- [deeplearning.ai Specialization -- Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/records/J793J6XXTQNV)
 
 2020 -- [deeplearning.ai Specialization -- Course 3: Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/records/55VDR99XWQ3W)
 
