@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **08/09/2020**
+Last update: **17/09/2020**
 
 ## <center> ANDRÉ MARINHO </center>
 <p align="center"> Brazilian, single, 27 years old </p>
