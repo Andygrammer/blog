@@ -72,6 +72,7 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 * English: **level B1**
     * [Reading Comprehension (União Cultural)](http://uniaocultural.org.br/uc-proficiencia-en.html)
     * [University of California, Irvine Learn English: Advanced Speaking and Listening Specialization -- Course 1: Academic Listening and Note-Taking](https://www.coursera.org/account/accomplishments/records/ABS4ZMBEYTW7)
+    * [University of California, Irvine Learn English: Advanced Speaking and Listening Specialization - Course 2: Presentations: Speaking so that People Listen](https://www.coursera.org/account/accomplishments/records/K48TYMWX4BZR)
 * Japanese: **level A1**
     * [Japonês Básico - Escreva em japonês (Udemy)](http://ude.my/UC-75ff17aa-c9a2-4e95-b72c-9253bf4eac26)
     * [Duolingo Japanese Fluency: Basic (Estimated)](https://www.duolingo.com/profile/Andywh)
@@ -271,8 +272,6 @@ Live streaming of the following topics: data science, computer programming, game
 ### COURSES IN PROGRESS
 
 Coursera: National Research University Higher School of Economics Advanced -- Advanced Machine Learning Specialization
-
-Coursera: University of California, Irvine -- Learn English: Advanced Academic Speaking and Listening Specialization
 
 Udemy: Machine Learning -- Reconhecimento de Gestos e Ações com Python e OpenCV
 
