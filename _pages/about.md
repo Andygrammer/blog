@@ -223,7 +223,7 @@ Live streaming of the following topics: data science, computer programming, game
 
 <img src="http://seekvectorlogo.com/wp-content/uploads/2019/01/coursera-vector-logo-small.png" height="100" width="100">
 
-2020 -- [Johns Hopkins Data Science Specialization Courses](https://www.coursera.org/specializations/jhu-data-science)
+2020 -- [Johns Hopkins: Data Science Specialization Courses](https://www.coursera.org/specializations/jhu-data-science)
 
 1. [The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/records/URF4HKTUJQXX)
 
@@ -243,7 +243,7 @@ Live streaming of the following topics: data science, computer programming, game
 
 9. [Developing Data Products](https://www.coursera.org/account/accomplishments/records/M5QQQ9PUTURA)
 
-2020 -- [deeplearning.ai Deep Learning Specialization Courses](https://www.coursera.org/specializations/deep-learning)
+2020 -- [deeplearning.ai: Deep Learning Specialization Courses](https://www.coursera.org/specializations/deep-learning)
 
 1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/GFVDER523K6Q)
 
@@ -255,7 +255,7 @@ Live streaming of the following topics: data science, computer programming, game
 
 5. [Sequence Models](???)
 
-2020 -- [National Research University Higher School of Economics Advanced Machine Learning Specialization - Course 1: Introduction to Deep Learning (Concluded with Honours)](https://www.coursera.org/account/accomplishments/records/C5W3ZEBA4YFA)
+2020 -- [National Research University Higher School of Economics Advanced Machine Learning Specialization - Course 1: Introduction to Deep Learning (Concluded with Honors)](https://www.coursera.org/account/accomplishments/records/C5W3ZEBA4YFA)
 
 2020 -- [University of California, Davis -- SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/BH998JBTPH2J)
 
