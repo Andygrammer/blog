@@ -249,7 +249,7 @@ Live streaming of the following topics: data science, computer programming, game
 
 2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/records/J793J6XXTQNV)
 
-3. [deeplearning.ai Specialization -- Course 3: Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/records/55VDR99XWQ3W)
+3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/records/55VDR99XWQ3W)
 
 4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/records/GFVDER523K6Q)
 
