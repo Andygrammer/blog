@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **17/09/2020**
+Last update: **24/09/2020**
 
 ## <center> ANDRÉ MARINHO </center>
 <p align="center"> Brazilian, single, 27 years old </p>
@@ -243,7 +243,7 @@ Live streaming of the following topics: data science, computer programming, game
 
 9. [Developing Data Products](https://www.coursera.org/account/accomplishments/records/M5QQQ9PUTURA)
 
-2020 -- [deeplearning.ai: Deep Learning Specialization Courses](https://www.coursera.org/specializations/deep-learning)
+2020 -- [deeplearning.ai: Deep Learning Specialization Courses](https://www.coursera.org/account/accomplishments/specialization/certificate/YKF8FM5JPFPP)
 
 1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/GFVDER523K6Q)
 
@@ -276,8 +276,6 @@ Live streaming of the following topics: data science, computer programming, game
 ---
 
 ### COURSES IN PROGRESS
-
-Coursera: National Research University Higher School of Economics Advanced -- Advanced Machine Learning Specialization
 
 Udemy: Machine Learning -- Reconhecimento de Gestos e Ações com Python e OpenCV
 
