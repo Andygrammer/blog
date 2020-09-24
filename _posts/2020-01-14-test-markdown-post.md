@@ -1,11 +1,14 @@
 ---
 toc: true
 layout: post
-description: A minimal example of using markdown with fastpages.
+description: Portfolio coming soon.
 categories: [markdown]
 title: An Example Markdown Post
 ---
-# Example Markdown Post
+# Coming soon
+
+<!--
+Coming soon...
 
 ## Basic setup
 
@@ -100,4 +103,4 @@ key: value
 
 
 [^1]: This is the footnote.
-
+-->
