@@ -13,10 +13,10 @@
   
     
         ,"post1": {
-            "title": "Portfolio coming soon.",
-            "content": "Coming soon… .",
-            "url": "https://andygrammer.github.io/blog/markdown/2020/01/14/test-markdown-post.html",
-            "relUrl": "/markdown/2020/01/14/test-markdown-post.html",
+            "title": "Portfolio coming soon",
+            "content": "",
+            "url": "https://andygrammer.github.io/blog/portfolio/2020/01/14/test-markdown-post.html",
+            "relUrl": "/portfolio/2020/01/14/test-markdown-post.html",
             "date": " • Jan 14, 2020"
         }
         
