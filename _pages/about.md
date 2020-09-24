@@ -253,7 +253,7 @@ Live streaming of the following topics: data science, computer programming, game
 
 4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/records/GFVDER523K6Q)
 
-5. [Sequence Models](???)
+5. [Sequence Models](https://www.coursera.org/account/accomplishments/records/CA4D4XYUKH42)
 
 2020 -- [National Research University Higher School of Economics Advanced Machine Learning Specialization - Course 1: Introduction to Deep Learning (Concluded with Honors)](https://www.coursera.org/account/accomplishments/records/C5W3ZEBA4YFA)
 
