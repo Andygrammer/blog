@@ -257,6 +257,9 @@ Live streaming of the following topics: data science, computer programming, game
 
 2020 -- [National Research University Higher School of Economics Advanced Machine Learning Specialization - Course 1: Introduction to Deep Learning (Concluded with Honors)](https://www.coursera.org/account/accomplishments/records/C5W3ZEBA4YFA)
 
+2020 -- [National Research University Higher School of Economics Advanced Machine Learning Specialization - Course 2: How to Win a Data Science Competition: Learn
+from Top Kagglers (Concluded with Honors)](https://www.coursera.org/account/accomplishments/records/FF6HG5MSUFZM)
+
 2020 -- [University of California, Davis -- SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/BH998JBTPH2J)
 
 2017 -- Java Programming: [Instituto Tecnológico de Aeronáutica -- Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/account/accomplishments/verify/LYP2NSR4NKZY)
