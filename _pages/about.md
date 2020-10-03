@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **24/09/2020**
+Last update: **02/10/2020**
 
 ## <center> ANDRÉ MARINHO </center>
 <p align="center"> Brazilian, single, 27 years old </p>
@@ -251,7 +251,7 @@ Live streaming of the following topics: data science, computer programming, game
 
 3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/records/55VDR99XWQ3W)
 
-4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/records/GFVDER523K6Q)
+4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/records/UMC2KMR2D8HX)
 
 5. [Sequence Models](https://www.coursera.org/account/accomplishments/records/CA4D4XYUKH42)
 
