@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **02/10/2020**
+Last update: **04/01/2020**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 27 years old </p>
@@ -181,13 +181,17 @@ São Paulo, Brazil
 
 English--Portuguese translator of Coursera Platform videos
 
-**Twitch**
+**Runner**
 
-*Content Creator*
+*Charity runner*
 
-*05/2020--present*
+*12/2020--present*
 
-Live streaming of the following topics: data science, computer programming, game development, and math
+Nonprofit organizations that I have raised money or awareness:
+
+* Fundação Pró-Sangue;
+* Casa da Criança Paralítica de Campinas;
+* Santa Barbara Athletic Association.
 
 ---
 
