@@ -183,7 +183,7 @@ English--Portuguese translator of Coursera Platform videos
 
 **Runner**
 
-*Charity runner*
+*Charity Runner*
 
 *12/2020--present*
 
