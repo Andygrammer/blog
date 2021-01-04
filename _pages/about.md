@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Last update: **02/10/2020**
 
-## <center> ANDRÉ MARINHO </center>
+## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 27 years old </p>
 <p align="center"> Apply for: <b>Data Scientist</b> </p>
 
