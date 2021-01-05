@@ -293,6 +293,7 @@ Kaggle: Intermediate Machine Learning
 ### PROJECTS
 
 [My Portfolio](https://andygrammer.github.io/blog/)
+[My Research Blog](https://andygrammer.github.io/research-blog/)
 
 <!--
 
