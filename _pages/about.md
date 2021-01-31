@@ -192,7 +192,8 @@ Nonprofit organizations that I have raised money or awareness:
 * Fundação Pró-Sangue;
 * Casa da Criança Paralítica de Campinas;
 * Santa Barbara Athletic Association;
-* Instituto Oncoclínicas - Cancer campaign "O câncer não espera. Cuide-se já".
+* Instituto Oncoclínicas - Cancer campaign "O câncer não espera. Cuide-se já";
+* Projeto Assistencial Novo Céu.
 
 ---
 
