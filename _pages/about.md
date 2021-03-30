@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **05/01/2020**
+Last update: **30/03/2021**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 27 years old </p>
@@ -294,7 +294,7 @@ Kaggle: Intermediate Machine Learning
 
 ### PROJECTS
 
-[My Portfolio](https://andygrammer.github.io/blog/)
+[My Portfolio](https://andygrammer.github.io/blog/portfolio/projects/2021/03/30/My-Projects.html)
 
 [My Research Blog](https://andygrammer.github.io/research-blog/)
 
