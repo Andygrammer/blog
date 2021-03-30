@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Arvores Project",
-            "content": "— . toc: true layout: post description: Forecast planted forests areas in Brazil categories: [portfolio, projects, nature, regression, kfold, mse] title: Project 1 - Planted Forests in Brazil — . Project 1 - Planted Forests in Brazil . . Type of project: Machine Learning Project . Application: Nature . Data source: 2 CSV files . Nature of the data: temporal series . Nature of this machine learning project: Regression . Implemented models: 1. AutoRegressive Integrated Moving Average (ARIMA); 2. Linear Regression . Model validation: K-Fold . Metrics used: Mean Squared Error (MSE), and Negative Root Mean Squared Error (NRMSE) . Project phases: . Business understanding | Business question definition | Data acquisition and understanding | Data cleaning | Exploratory Data Analysis (EDA) | Modeling (training, test, evaluation) | Prediction of new data | Project link .",
-            "url": "https://andygrammer.github.io/blog/2021/03/30/arvores-project.html",
-            "relUrl": "/2021/03/30/arvores-project.html",
+            "title": "Project 1 - Planted Forests in Brazil",
+            "content": "Project 1 - Planted Forests in Brazil . . Type of project: Machine Learning Project . Application: Nature . Data source: 2 CSV files . Nature of the data: temporal series . Nature of this machine learning project: Regression . Implemented models: 1. AutoRegressive Integrated Moving Average (ARIMA); 2. Linear Regression . Model validation: K-Fold . Metrics used: Mean Squared Error (MSE), and Negative Root Mean Squared Error (NRMSE) . Project phases: . Business understanding | Business question definition | Data acquisition and understanding | Data cleaning | Exploratory Data Analysis (EDA) | Modeling (training, test, evaluation) | Prediction of new data | Project link .",
+            "url": "https://andygrammer.github.io/blog/portfolio/projects/nature/regression/kfold/mse/2021/03/30/arvores-project.html",
+            "relUrl": "/portfolio/projects/nature/regression/kfold/mse/2021/03/30/arvores-project.html",
             "date": " • Mar 30, 2021"
         }
         
