@@ -278,9 +278,11 @@ from Top Kagglers (Concluded with Honors)](https://www.coursera.org/account/acco
 \
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="39" width="100">
 \
-2020 -- [Python Course](https://www.kaggle.com/learn/certification/andremarin/python)
+2021 -- [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/andremarin/intermediate-machine-learning)
 
 2020 -- [Intro to Machine Learning](https://www.kaggle.com/learn/certification/andremarin/intro-to-machine-learning)
+
+2020 -- [Python Course](https://www.kaggle.com/learn/certification/andremarin/python)
 
 ---
 
@@ -288,7 +290,7 @@ from Top Kagglers (Concluded with Honors)](https://www.coursera.org/account/acco
 
 Udemy: Machine Learning -- Reconhecimento de Gestos e Ações com Python e OpenCV
 
-Kaggle: Intermediate Machine Learning
+Kaggle: Data Visualization
 
 ---
 
