@@ -1,10 +1,11 @@
-# ---
+---
 toc: true
 layout: post
 description: Exploratory Data Analysis: COVID-19 world vaccination data 
 categories: [portfolio, projects, covid, eda, exploration, data analysis]
 title: Project 2 - COVID-19 World Vaccination
 ---
+
 # Project 2 - COVID-19 World Vaccination
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Fphar-11-00937-g001.jpg"/>
