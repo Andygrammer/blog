@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "Covid Project",
+            "content": "— . toc: true layout: post description: Exploratory Data Analysis: COVID-19 world vaccination data categories: [portfolio, projects, covid, eda, exploration, data analysis] title: Project 2 - COVID-19 World Vaccination — . Project 2 - COVID-19 World Vaccination . . Type of project: Insights Project . Application: Health . Data source: 1 CSV file . Nature of the data: temporal series . Project phases: . Business understanding | Business question definition | Data acquisition and understanding | Data cleaning | Exploratory Data Analysis (EDA) | Project link .",
+            "url": "https://andygrammer.github.io/blog/2021/04/05/covid-project.html",
+            "relUrl": "/2021/04/05/covid-project.html",
+            "date": " • Apr 5, 2021"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "Project 1 - Planted Forests in Brazil",
             "content": "Project 1 - Planted Forests in Brazil . . Type of project: Machine Learning Project . Application: Nature . Data source: 2 CSV files . Nature of the data: temporal series . Nature of this machine learning project: Regression . Implemented models: 1. AutoRegressive Integrated Moving Average (ARIMA); 2. Linear Regression . Model validation: K-Fold . Metrics used: Mean Squared Error (MSE), and Negative Root Mean Squared Error (NRMSE) . Project phases: . Business understanding | Business question definition | Data acquisition and understanding | Data cleaning | Exploratory Data Analysis (EDA) | Modeling (training, test, evaluation) | Prediction of new data | Project link .",
             "url": "https://andygrammer.github.io/blog/portfolio/projects/nature/regression/kfold/mse/2021/03/30/arvores-project.html",
@@ -12,7 +23,7 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "My Projects",
             "content": "My Projects . 1. Planted Forests in Brazil . 2. PangYa Interpolation (coming soon) . 3. Covid-19 classification (coming soon) .",
             "url": "https://andygrammer.github.io/blog/portfolio/projects/2021/03/30/My-Projects.html",
