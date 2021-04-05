@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Exploratory Data Analysis: COVID-19 world vaccination data 
-categories: [portfolio, projects, covid, eda, exploration, data analysis]
+categories: [portfolio, projects, covid, eda, exploration, analysis]
 title: Project 2 - COVID-19 World Vaccination
 ---
 
