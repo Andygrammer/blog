@@ -10,7 +10,7 @@ title: My Projects
 
 ## 1. [Planted Forests in Brazil](https://andygrammer.github.io/blog/portfolio/projects/nature/regression/kfold/mse/2021/03/30/arvores-project.html) 
 
-## 2. [COVID-19 World Vaccination](https://andygrammer.github.io/blog/2021/04/05/covid-project.html)
+## 2. [COVID-19 World Vaccination](https://andygrammer.github.io/blog/portfolio/projects/covid/eda/exploration/analysis/2021/04/05/covid-project.html)
 
 ## 3. PangYa Interpolation (coming soon...)
 
