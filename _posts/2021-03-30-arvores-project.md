@@ -6,8 +6,6 @@ categories: [portfolio, projects, nature, regression, kfold, mse]
 title: Project 1 - Planted Forests in Brazil
 ---
 
-# Project 1 - Planted Forests in Brazil
-
 <img align="left" src="https://i2.wp.com/treevia.com.br/wp-content/uploads/2020/08/website-blog-imagem-de-fundo.jpg"/>
 
 **Type of project:** Machine Learning Project
