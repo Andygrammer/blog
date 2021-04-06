@@ -35,4 +35,4 @@ title: Project 1 - Planted Forests in Brazil
 6. Modeling (training, test, evaluation)
 7. Prediction of new data
 
-## [Project link](https://github.com/Andygrammer/FlorestasPlantadas/blob/main/FlorestasPlantadas_Pred.ipynb) 
+## [Project link](https://nbviewer.jupyter.org/github/Andygrammer/FlorestasPlantadas/blob/main/FlorestasPlantadas_Pred.ipynb) 
