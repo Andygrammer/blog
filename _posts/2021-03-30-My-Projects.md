@@ -12,6 +12,6 @@ title: My Projects
 
 ## 2. [Covid-19 classification](https://andygrammer.github.io/blog/2021/04/05/covid-project.html)
 
-## 3. PangYa Interpolation (coming soon)
+## 3. PangYa Interpolation (coming soon...)
 
 
