@@ -16,4 +16,6 @@ title: My Projects
 
 ## 4. PangYa Interpolation (coming soon...)
 
+For more projects and open source contributions, please visit [my GitHub repositories' page](https://github.com/Andygrammer?tab=repositories)
+
 
