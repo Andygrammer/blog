@@ -298,8 +298,6 @@ Kaggle: Data Visualization
 
 [My Portfolio](https://andygrammer.github.io/blog/portfolio/projects/2021/03/30/My-Projects.html)
 
-[My Research Blog](https://andygrammer.github.io/research-blog/)
-
 <!--
 
 * [P1 -- Insights Project](link)
