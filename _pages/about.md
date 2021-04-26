@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **23/04/2021**
+Last update: **26/04/2021**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 27 years old </p>
@@ -71,6 +71,7 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 * Portuguese: **native**
 * English: **level B1**
     * [Reading Comprehension (União Cultural)](http://uniaocultural.org.br/uc-proficiencia-en.html)
+    * [University of California, Irvine Learn English: The Pronunciation of American English Specialization - Course 1: Consonants of American English Pronunciation](https://www.coursera.org/account/accomplishments/records/VZH9QACCSJVX)
     * [University of California, Irvine Learn English: Advanced Speaking and Listening Specialization -- Course 1: Academic Listening and Note-Taking](https://www.coursera.org/account/accomplishments/records/ABS4ZMBEYTW7)
     * [University of California, Irvine Learn English: Advanced Speaking and Listening Specialization - Course 2: Presentations: Speaking so that People Listen](https://www.coursera.org/account/accomplishments/records/K48TYMWX4BZR)
 * Japanese: **level A1**
@@ -288,7 +289,7 @@ from Top Kagglers (Concluded with Honors)](https://www.coursera.org/account/acco
 
 ### COURSES IN PROGRESS
 
-Udemy: Machine Learning -- Reconhecimento de Gestos e Ações com Python e OpenCV
+Coursera: Vowels of American English Pronunciation
 
 Kaggle: Data Visualization
 
