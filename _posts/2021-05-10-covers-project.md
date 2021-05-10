@@ -10,6 +10,8 @@ title: Project 3 - Cover Song Identification (CSI)
 
 <img align="left" src="https://www.mundopositivo.com.br/wp-content/uploads/2020/08/mexicano-viraliza-na-web-apos-fazer-cover-bizarro-de-freddie-mercury-1.png"/>
 
+\
+&nbsp;
 
 **Type of project:** Machine Learning Project
 
@@ -17,7 +19,7 @@ title: Project 3 - Cover Song Identification (CSI)
 
 **Data source:** 1 CSV; 10k+ H5 files
 
-**Nature of the data:** song catalog data and song features
+**Nature of the data:** Song catalog data and song features
 
 **Nature of this machine learning project:** Regression
 
@@ -25,7 +27,7 @@ title: Project 3 - Cover Song Identification (CSI)
 
 **Model validation:** Ensembles
 
-**Metrics used:** Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and accuracy
+**Metrics used:** Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and Accuracy
 
 **Project phases:**
 1. Business understanding
