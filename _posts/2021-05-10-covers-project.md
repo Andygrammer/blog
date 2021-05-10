@@ -1,10 +1,11 @@
-# ---
+---
 toc: true
 layout: post
 description: Identification of cover songs 
 categories: [portfolio, projects, music, cover, regression, forest, neural network, ann, mca]
 title: Project 3 - Cover Song Identification (CSI)
 ---
+
 # Project 3 - Cover Song Identification (CSI)
 
 <img align="left" src="https://www.mundopositivo.com.br/wp-content/uploads/2020/08/mexicano-viraliza-na-web-apos-fazer-cover-bizarro-de-freddie-mercury-1.png"/>
