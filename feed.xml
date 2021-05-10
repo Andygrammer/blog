@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://andygrammer.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://andygrammer.github.io/blog/" rel="alternate" type="text/html" /><updated>2021-05-10T12:11:39-05:00</updated><id>https://andygrammer.github.io/blog/feed.xml</id><title type="html">André Batemarchi</title><subtitle>André Batemarchi's Data Science portfolio</subtitle><entry><title type="html">Project 3 - Cover Song Identification (CSI)</title><link href="https://andygrammer.github.io/blog/portfolio/projects/music/cover/regression/forest/neural%20network/ann/mca/2021/05/10/covers-project.html" rel="alternate" type="text/html" title="Project 3 - Cover Song Identification (CSI)" /><published>2021-05-10T00:00:00-05:00</published><updated>2021-05-10T00:00:00-05:00</updated><id>https://andygrammer.github.io/blog/portfolio/projects/music/cover/regression/forest/neural%20network/ann/mca/2021/05/10/covers-project</id><content type="html" xml:base="https://andygrammer.github.io/blog/portfolio/projects/music/cover/regression/forest/neural%20network/ann/mca/2021/05/10/covers-project.html">&lt;h1 id=&quot;project-3---cover-song-identification-csi&quot;&gt;Project 3 - Cover Song Identification (CSI)&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://andygrammer.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://andygrammer.github.io/blog/" rel="alternate" type="text/html" /><updated>2021-05-10T12:16:31-05:00</updated><id>https://andygrammer.github.io/blog/feed.xml</id><title type="html">André Batemarchi</title><subtitle>André Batemarchi's Data Science portfolio</subtitle><entry><title type="html">Project 3 - Cover Song Identification (CSI)</title><link href="https://andygrammer.github.io/blog/portfolio/projects/music/cover/regression/forest/neural%20network/ann/mca/2021/05/10/covers-project.html" rel="alternate" type="text/html" title="Project 3 - Cover Song Identification (CSI)" /><published>2021-05-10T00:00:00-05:00</published><updated>2021-05-10T00:00:00-05:00</updated><id>https://andygrammer.github.io/blog/portfolio/projects/music/cover/regression/forest/neural%20network/ann/mca/2021/05/10/covers-project</id><content type="html" xml:base="https://andygrammer.github.io/blog/portfolio/projects/music/cover/regression/forest/neural%20network/ann/mca/2021/05/10/covers-project.html">&lt;h1 id=&quot;project-3---cover-song-identification-csi&quot;&gt;Project 3 - Cover Song Identification (CSI)&lt;/h1&gt;
 
 &lt;p&gt;&lt;img align=&quot;left&quot; src=&quot;https://www.mundopositivo.com.br/wp-content/uploads/2020/08/mexicano-viraliza-na-web-apos-fazer-cover-bizarro-de-freddie-mercury-1.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+ &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Type of project:&lt;/strong&gt; Machine Learning Project&lt;/p&gt;
 
@@ -8,7 +11,7 @@
 
 &lt;p&gt;&lt;strong&gt;Data source:&lt;/strong&gt; 1 CSV; 10k+ H5 files&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Nature of the data:&lt;/strong&gt; song catalog data and song features&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nature of the data:&lt;/strong&gt; Song catalog data and song features&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Nature of this machine learning project:&lt;/strong&gt; Regression&lt;/p&gt;
 
@@ -16,7 +19,7 @@
 
 &lt;p&gt;&lt;strong&gt;Model validation:&lt;/strong&gt; Ensembles&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Metrics used:&lt;/strong&gt; Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and accuracy&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Metrics used:&lt;/strong&gt; Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and Accuracy&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Project phases:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
