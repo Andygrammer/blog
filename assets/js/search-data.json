@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "Covers Project",
+            "content": "— . toc: true layout: post description: Identification of cover songs categories: [portfolio, projects, music, cover, regression, forest, neural network, ann, mca] title: Project 3 - Cover Song Identification (CSI) — . Project 3 - Cover Song Identification (CSI) . . Type of project: Machine Learning Project . Application: Music . Data source: 1 CSV; 10k+ H5 files . Nature of the data: song catalog data and song features . Nature of this machine learning project: Regression . Implemented models: Two ensembles with Multiple Correspondence Analysis (MCA): 1. Random Forests (Bagging); 2. Extreme Gradient Boosting; and Deep Neural Network . Model validation: Ensembles . Metrics used: Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and accuracy . Project phases: . Business understanding | Business question definition | Data acquisition and understanding | Data cleaning | Exploratory Data Analysis (EDA) | Modeling (training, test, evaluation) | Prediction of new data | Project link .",
+            "url": "https://andygrammer.github.io/blog/2021/05/10/covers-project.html",
+            "relUrl": "/2021/05/10/covers-project.html",
+            "date": " • May 10, 2021"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "Project 2 - COVID-19 World Vaccination",
             "content": ". Type of project: Insights Project . Application: Health . Data source: 1 CSV file . Nature of the data: temporal series . Project phases: . Business understanding | Business question definition | Data acquisition and understanding | Data cleaning | Exploratory Data Analysis (EDA) | Project link .",
             "url": "https://andygrammer.github.io/blog/portfolio/projects/covid/eda/exploration/analysis/2021/04/05/covid-project.html",
@@ -12,7 +23,7 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "Project 1 - Planted Forests in Brazil",
             "content": ". Type of project: Machine Learning Project . Application: Nature . Data source: 2 CSV files . Nature of the data: temporal series . Nature of this machine learning project: Regression . Implemented models: 1. AutoRegressive Integrated Moving Average (ARIMA); 2. Linear Regression . Model validation: K-Fold . Metrics used: Mean Squared Error (MSE) and Negative Root Mean Squared Error (NRMSE) . Project phases: . Business understanding | Business question definition | Data acquisition and understanding | Data cleaning | Exploratory Data Analysis (EDA) | Modeling (training, test, evaluation) | Prediction of new data | Project link .",
             "url": "https://andygrammer.github.io/blog/portfolio/projects/nature/regression/kfold/mse/2021/03/30/arvores-project.html",
@@ -23,7 +34,7 @@
     
   
     
-        ,"post2": {
+        ,"post3": {
             "title": "My Projects",
             "content": "My Projects . 1. Planted Forests in Brazil . 2. COVID-19 World Vaccination . 3. Cover Song Identification (in construction…) . 4. PangYa Interpolation (coming soon…) . For more projects and open source contributions, please visit my GitHub repositories page .",
             "url": "https://andygrammer.github.io/blog/portfolio/projects/2021/03/30/My-Projects.html",
