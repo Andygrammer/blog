@@ -22,7 +22,7 @@ title: Project 1 - Planted Forests in Brazil
 
 **Model validation:** K-Fold
 
-**Metrics used:** Mean Squared Error (MSE), and Negative Root Mean Squared Error (NRMSE)
+**Metrics used:** Mean Squared Error (MSE) and Negative Root Mean Squared Error (NRMSE)
 
 **Project phases:**
 1. Business understanding
