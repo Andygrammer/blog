@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Covers Project",
-            "content": "— . toc: true layout: post description: Identification of cover songs categories: [portfolio, projects, music, cover, regression, forest, neural network, ann, mca] title: Project 3 - Cover Song Identification (CSI) — . Project 3 - Cover Song Identification (CSI) . . Type of project: Machine Learning Project . Application: Music . Data source: 1 CSV; 10k+ H5 files . Nature of the data: song catalog data and song features . Nature of this machine learning project: Regression . Implemented models: Two ensembles with Multiple Correspondence Analysis (MCA): 1. Random Forests (Bagging); 2. Extreme Gradient Boosting; and Deep Neural Network . Model validation: Ensembles . Metrics used: Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and accuracy . Project phases: . Business understanding | Business question definition | Data acquisition and understanding | Data cleaning | Exploratory Data Analysis (EDA) | Modeling (training, test, evaluation) | Prediction of new data | Project link .",
-            "url": "https://andygrammer.github.io/blog/2021/05/10/covers-project.html",
-            "relUrl": "/2021/05/10/covers-project.html",
+            "title": "Project 3 - Cover Song Identification (CSI)",
+            "content": "Project 3 - Cover Song Identification (CSI) . . Type of project: Machine Learning Project . Application: Music . Data source: 1 CSV; 10k+ H5 files . Nature of the data: song catalog data and song features . Nature of this machine learning project: Regression . Implemented models: Two ensembles with Multiple Correspondence Analysis (MCA): 1. Random Forests (Bagging); 2. Extreme Gradient Boosting; and Deep Neural Network . Model validation: Ensembles . Metrics used: Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and accuracy . Project phases: . Business understanding | Business question definition | Data acquisition and understanding | Data cleaning | Exploratory Data Analysis (EDA) | Modeling (training, test, evaluation) | Prediction of new data | Project link .",
+            "url": "https://andygrammer.github.io/blog/portfolio/projects/music/cover/regression/forest/neural%20network/ann/mca/2021/05/10/covers-project.html",
+            "relUrl": "/portfolio/projects/music/cover/regression/forest/neural%20network/ann/mca/2021/05/10/covers-project.html",
             "date": " • May 10, 2021"
         }
         
