@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **26/04/2021**
+Last update: **13/05/2021**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 27 years old </p>
@@ -284,6 +284,10 @@ from Top Kagglers (Concluded with Honors)](https://www.coursera.org/account/acco
 2020 -- [Intro to Machine Learning](https://www.kaggle.com/learn/certification/andremarin/intro-to-machine-learning)
 
 2020 -- [Python Course](https://www.kaggle.com/learn/certification/andremarin/python)
+
+## OTHERS
+
+2021 -- [Emotional intelligence](https://drive.conqueronline.com.br/Certificados/Intelig%C3%AAncia%20Emocional/1620753256010-47e1775c-5a02-4b31-862b-332460b21c86.pdf)
 
 ---
 
