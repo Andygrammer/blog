@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **13/05/2021**
+Last update: **10/06/2021**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 27 years old </p>
@@ -230,6 +230,10 @@ Nonprofit organizations that I have raised money or awareness:
 
 <img src="http://seekvectorlogo.com/wp-content/uploads/2019/01/coursera-vector-logo-small.png" height="100" width="100">
 
+2021 -- [deeplearning.ai: Machine Learning Engineering for Production Specialization Courses](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+
+1. [Introduction to Machine Learning in Production](https://www.coursera.org/account/accomplishments/records/R4WWUDSDXNZD)
+
 2020 -- [Johns Hopkins: Data Science Specialization Courses](https://www.coursera.org/specializations/jhu-data-science)
 
 1. [The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/records/URF4HKTUJQXX)
@@ -285,9 +289,31 @@ from Top Kagglers (Concluded with Honors)](https://www.coursera.org/account/acco
 
 2020 -- [Python Course](https://www.kaggle.com/learn/certification/andremarin/python)
 
+\
+<img src="https://media.cuponeria.com.br/2020/07/63f02582-cupom-de-desconto-alura.png" height="100" width="100">
+\
+2021 -- [Machine Learning for Digital Business Nanodegree Courses](https://cursos.alura.com.br/degree/certificate/de7286c9-2f56-4e8a-82aa-c1d488b235d2)
+
+1. [Machine Learning: Intro to recommender systems in Python](https://cursos.alura.com.br/certificate/93f189dc-155d-42df-b0c6-d4fefd73d51d)
+
+2. [Multi Label text classification: multiple contexts in NLP](https://cursos.alura.com.br/certificate/aa8ad3a9-ae3a-4017-953c-207621470486)
+
+3. [Predictive models in data: fraud detection](https://cursos.alura.com.br/certificate/01ac5e06-3012-4be5-a5ad-733d14d655b6)
+
+4. [Data Analytics: Machine Learning in Digital Marketing](https://cursos.alura.com.br/certificate/423e1be5-336f-4acd-80fe-efd77d21996d)
+
+5. [Data Analytics: Machine Learning with Google Cloud Platform](https://cursos.alura.com.br/certificate/08c199d2-5384-437c-a1e8-fb032eb87590)
+
+6. [Data clustering: Customer segmentation](https://cursos.alura.com.br/certificate/2411f863-edc7-49ad-811f-3069b89fac5a)
+
+7. [MLOps: Machine Learning and APIs](https://cursos.alura.com.br/certificate/da8dcb85-e435-48dd-9c23-1ca575de8925)
+
+8. [MLOps: Models deploying](https://cursos.alura.com.br/certificate/8a5280f6-5183-4c0b-bfa0-97b2eb416780)
+
 ## OTHERS
 
 2021 -- [Emotional intelligence](https://drive.conqueronline.com.br/Certificados/Intelig%C3%AAncia%20Emocional/1620753256010-47e1775c-5a02-4b31-862b-332460b21c86.pdf)
+
 
 ---
 
