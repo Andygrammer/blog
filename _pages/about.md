@@ -290,15 +290,15 @@ from Top Kagglers (Concluded with Honors)](https://www.coursera.org/account/acco
 2020 -- [Python Course](https://www.kaggle.com/learn/certification/andremarin/python)
 
 \
-<img src="https://media.cuponeria.com.br/2020/07/63f02582-cupom-de-desconto-alura.png" height="100" width="100">
+<img src="http://crescera.com/wp-content/uploads/2020/02/Alura.jpg" height="100" width="100">
 \
 2021 -- [Machine Learning for Digital Business Nanodegree Courses](https://cursos.alura.com.br/degree/certificate/de7286c9-2f56-4e8a-82aa-c1d488b235d2)
 
 1. [Machine Learning: Intro to recommender systems in Python](https://cursos.alura.com.br/certificate/93f189dc-155d-42df-b0c6-d4fefd73d51d)
 
-2. [Multi Label text classification: multiple contexts in NLP](https://cursos.alura.com.br/certificate/aa8ad3a9-ae3a-4017-953c-207621470486)
+2. [Multi label text classification: Multiple contexts in NLP](https://cursos.alura.com.br/certificate/aa8ad3a9-ae3a-4017-953c-207621470486)
 
-3. [Predictive models in data: fraud detection](https://cursos.alura.com.br/certificate/01ac5e06-3012-4be5-a5ad-733d14d655b6)
+3. [Predictive models in data: Fraud detection](https://cursos.alura.com.br/certificate/01ac5e06-3012-4be5-a5ad-733d14d655b6)
 
 4. [Data Analytics: Machine Learning in Digital Marketing](https://cursos.alura.com.br/certificate/423e1be5-336f-4acd-80fe-efd77d21996d)
 
@@ -320,6 +320,8 @@ from Top Kagglers (Concluded with Honors)](https://www.coursera.org/account/acco
 ### COURSES IN PROGRESS
 
 Coursera: Vowels of American English Pronunciation
+
+DataBricks: Data Engineer Nanodegree
 
 Kaggle: Data Visualization
 
