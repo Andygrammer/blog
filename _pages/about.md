@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **10/06/2021**
+Last update: **14/06/2021**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 27 years old </p>
@@ -84,10 +84,9 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 ### INFORMATICS
 
 * Data Science and Machine Learning
-    * Supervised Learning: **Artificial Neural Networks, Decision Tree, KNN, SVM, Genetic Programming, Bayesian Methods, Linear Regression, Logistic Regression**
-    * Unsupervised Learning: **K-Means, K-Medoids, K-Medoids, Biclustering, Self-organizing map**
-    * Ensemble: **Bagging, Boosting, Mixture of Experts**
-    * **Deep Learning**
+    * Supervised and Unsupervised Learning
+    * Ensemble
+    * Deep Learning
     * Database: **MySQL, Oracle SQL, SQL Server, PostgreSQL**
     * Other: **Version Control Systems, Scrum, Kanban, Design Patterns**
 * Programming Languages/Platforms
