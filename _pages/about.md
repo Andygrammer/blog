@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **14/06/2021**
+Last update: **23/06/2021**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 27 years old </p>
@@ -16,9 +16,9 @@ Last update: **14/06/2021**
 
 ![GitHub Logo](https://image.flaticon.com/icons/svg/1051/1051377.svg){:height="30px" width="30px" align="left"} [@Andygrammer](https://github.com/Andygrammer/)
 
-![Kaggle Logo](https://www.iconfinder.com/data/icons/logos-and-brands-3/512/189_Kaggle_logo_logos-512.png){:height="30px" width="30px" align="left"} [@andremarin](https://www.kaggle.com/andremarin)
+![Kaggle Logo](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png){:height="30px" width="30px" align="left"} [@andremarin](https://www.kaggle.com/andremarin)
 
-![HackerRank Logo](https://www.iconfinder.com/data/icons/logos-and-brands-3/512/160_Hackerrank_logo_logos-512.png){:height="30px" width="30px" align="left"} [@and201456](https://hackerrank.com/and201456?hr_r=1)
+![HackerRank Logo](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png){:height="30px" width="30px" align="left"} [@and201456](https://hackerrank.com/and201456?hr_r=1)
 
 ![Local Logo](https://image.flaticon.com/icons/svg/684/684809.svg){:height="30px" width="30px" align="left"} São Paulo -- Brazil
 
@@ -202,6 +202,7 @@ Nonprofit organizations that I have raised money or awareness:
 ![OCA Logo 1](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px" align="left"}
 ![OCA Logo 2](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px" align="left"}
 ![Cisco Logo](https://3m03xw3xmaeb36t27t2y40of-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/CCENT.jpg){:height="100px" width="100px" align="left"}
+![Cisco Logo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33603375){:height="100px" width="100px" align="left"}
 &nbsp;
 \
 \
