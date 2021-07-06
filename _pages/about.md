@@ -202,7 +202,8 @@ Nonprofit organizations that I have raised money or awareness:
 ![OCA Logo 1](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px" align="left"}
 ![OCA Logo 2](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px" align="left"}
 ![Cisco Logo](https://3m03xw3xmaeb36t27t2y40of-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/CCENT.jpg){:height="100px" width="100px" align="left"}
-![Cisco Logo](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33603375){:height="100px" width="100px" align="left"}
+![Databricks Logo 1](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33603375){:height="100px" width="100px" align="left"}
+![Databricks Logo 2](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/34285779){:height="100px" width="100px" align="left"}
 &nbsp;
 \
 \
