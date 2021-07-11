@@ -189,11 +189,12 @@ English--Portuguese translator of Coursera Platform videos
 
 Nonprofit organizations that I have raised money or awareness:
 
-* Fundação Pró-Sangue;
-* Casa da Criança Paralítica de Campinas;
-* Santa Barbara Athletic Association;
-* Instituto Oncoclínicas - Cancer campaign "O câncer não espera. Cuide-se já";
-* Projeto Assistencial Novo Céu.
+* Fundação Pró-Sangue -- encouragement and awareness of the importance of blood donation;
+* Casa da Criança Paralítica de Campinas -- care of paralyzed children;
+* Santa Barbara Athletic Association -- support local youth runners;
+* Instituto Oncoclínicas -- cancer campaign: "O câncer não espera. Cuide-se já";
+* Projeto Assistencial Novo Céu -- attend people with cerebral palsy;
+* Instituto Olga Kos -- shelter people with intellectual disabilities.
 
 ---
 
