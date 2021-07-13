@@ -14,7 +14,7 @@ title: Project 2 - COVID-19 World Vaccination
 
 **Data source:** 1 CSV file
 
-**Nature of the data:** temporal series
+**Nature of the data:** time series
 
 **Project phases:**
 1. Business understanding
