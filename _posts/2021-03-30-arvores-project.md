@@ -33,11 +33,5 @@ title: Project 1 - Planted Forests in Brazil
 6. Modeling (training, test, evaluation)
 7. Prediction of new data
 
-![image](https://user-images.githubusercontent.com/14043987/125498393-d466a7c2-1d14-484f-9b52-c090d4589d10.png)
-
-## [PT-BR Project link](https://nbviewer.jupyter.org/github/Andygrammer/FlorestasPlantadas/blob/main/FlorestasPlantadas_Pred.ipynb)
-
-<!--- [comment]: ## [PT-BR Project link](https://nbviewer.jupyter.org/github/Andygrammer/FlorestasPlantadas/blob/main/FlorestasPlantadas_Pred.ipynb) -->
-
-## ![](https://flagcdn.com/w20/br.png) [PT-BR Project link](https://nbviewer.jupyter.org/github/Andygrammer/FlorestasPlantadas/blob/main/FlorestasPlantadas_Pred.ipynb) 
-## ![](https://flagcdn.com/w20/us.png) [EN-US Project link](coming soon) 
+## 🇧🇷 [PT-BR Project link](https://nbviewer.jupyter.org/github/Andygrammer/FlorestasPlantadas/blob/main/FlorestasPlantadas_Pred.ipynb) 
+## 🇺🇸 [EN-US Project link](coming soon) 
