@@ -14,7 +14,7 @@ title: Project 1 - Planted Forests in Brazil
 
 **Data source:** 2 CSV files
 
-**Nature of the data:** temporal series
+**Nature of the data:** time series
 
 **Nature of this machine learning project:** Regression
 
