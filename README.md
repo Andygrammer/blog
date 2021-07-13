@@ -6,7 +6,7 @@
 
 https://Andygrammer.github.io/blog/
 
-# My Data Science Portfolio -- Projects
+# My Data Science Portfolio - Projects
 
 1. [Project 1 - Planted Forests in Brazil](https://andygrammer.github.io/blog/portfolio/projects/nature/regression/kfold/mse/2021/03/30/arvores-project.html)
 
