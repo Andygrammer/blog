@@ -34,4 +34,4 @@ title: Project 1 - Planted Forests in Brazil
 7. Prediction of new data
 
 ## 🇧🇷 [PT-BR Project link](https://nbviewer.jupyter.org/github/Andygrammer/FlorestasPlantadas/blob/main/FlorestasPlantadas_Pred.ipynb) 
-## 🇺🇸 [EN-US Project link](coming soon) 
+## 🇺🇸 [EN-US Project link](https://nbviewer.jupyter.org/github/Andygrammer/FlorestasPlantadas/blob/main/FlorestasPlantadas_Pred_EN.ipynb) 
