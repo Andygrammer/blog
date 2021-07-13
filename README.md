@@ -6,8 +6,6 @@
 
 https://Andygrammer.github.io/blog/
 
-_powered by [fastpages](https://github.com/fastai/fastpages)_
-
 # My Data Science Portfolio -- Projects
 
 1. [Project 1 - Planted Forests in Brazil](https://andygrammer.github.io/blog/portfolio/projects/nature/regression/kfold/mse/2021/03/30/arvores-project.html)
@@ -17,3 +15,5 @@ _powered by [fastpages](https://github.com/fastai/fastpages)_
 3. [Project 3 - Cover Song Identification (CSI)](https://andygrammer.github.io/blog/portfolio/projects/music/cover/regression/forest/neural%20network/ann/mca/2021/05/10/covers-project.html)
 
 4. Coming Soon...
+
+_powered by [fastpages](https://github.com/fastai/fastpages)_
