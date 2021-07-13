@@ -14,7 +14,7 @@
     
         ,"post1": {
             "title": "Project 2 - COVID-19 World Vaccination",
-            "content": ". Type of project: Insights Project . Application: Health . Data source: 1 CSV file . Nature of the data: temporal series . Project phases: . Business understanding | Business question definition | Data acquisition and understanding | Data cleaning | Exploratory Data Analysis (EDA) | Project link .",
+            "content": ". Type of project: Insights Project . Application: Health . Data source: 1 CSV file . Nature of the data: time series . Project phases: . Business understanding | Business question definition | Data acquisition and understanding | Data cleaning | Exploratory Data Analysis (EDA) | Project link .",
             "url": "https://andygrammer.github.io/blog/portfolio/projects/covid/eda/exploration/analysis/2021/04/05/covid-project.html",
             "relUrl": "/portfolio/projects/covid/eda/exploration/analysis/2021/04/05/covid-project.html",
             "date": " • Apr 5, 2021"
