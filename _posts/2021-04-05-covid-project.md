@@ -23,4 +23,6 @@ title: Project 2 - COVID-19 World Vaccination
 4. Data cleaning
 5. Exploratory Data Analysis (EDA)
 
-## [Project link](https://nbviewer.jupyter.org/github/Andygrammer/covid19_EDA/blob/main/COVID_VACCINATION_EDA.ipynb) 
+## 🇧🇷 [PT-BR Project link](https://nbviewer.jupyter.org/github/Andygrammer/covid19_EDA/blob/main/COVID_VACCINATION_EDA.ipynb) 
+
+## 🇺🇸 [EN-US Project link](https://nbviewer.jupyter.org/github/Andygrammer/covid19_EDA/blob/main/COVID_VACCINATION_EDA_EN.ipynb)
