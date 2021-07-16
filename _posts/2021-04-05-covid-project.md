@@ -25,4 +25,4 @@ title: Project 2 - COVID-19 World Vaccination
 
 ## 🇧🇷 [PT-BR Project link](https://nbviewer.jupyter.org/github/Andygrammer/covid19_EDA/blob/main/COVID_VACCINATION_EDA.ipynb) 
 
-## 🇺🇸 [EN-US Project link](https://nbviewer.jupyter.org/github/Andygrammer/covid19_EDA/blob/main/COVID_VACCINATION_EDA_EN.ipynb)
+## 🇺🇸 [EN-US Project link](https://github.com/Andygrammer/covid19_EDA/blob/main/COVID_VACCINATION_EDA_EN.ipynb)
