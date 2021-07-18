@@ -230,7 +230,8 @@ Nonprofit organizations that I have raised money or awareness:
 
 ### DATA SCIENCE COMPETITIONS
 
-🏆07/2021 -- DeepLearning.AI and Landing AI: Data-Centric AI Competition
+🏆07/2021 -- [DeepLearning.AI and Landing AI: Data-Centric AI Competition](https://https-deeplearning-ai.github.io/data-centric-comp/)
+
 Baseline accuracy: 0.64421
 My accuracy: 0.71154
 
