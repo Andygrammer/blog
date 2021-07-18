@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **23/06/2021**
+Last update: **18/07/2021**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 27 years old </p>
@@ -225,6 +225,14 @@ Nonprofit organizations that I have raised money or awareness:
 2018 -- Nasa: Hackathon Nasa Space Apps Challenge (TOP 20)
 
 2014 -- UNIP: Robocode University Cup (winner)
+
+---
+
+### DATA SCIENCE COMPETITIONS
+
+🏆07/2021 -- DeepLearning.AI and Landing AI: Data-Centric AI Competition
+Baseline accuracy: 0.64421
+My accuracy: 0.71154
 
 ---
 
