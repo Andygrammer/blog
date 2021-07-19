@@ -173,14 +173,6 @@ Donation of clothes, shoes, and toys for several campaigns targeted the patients
 
 São Paulo, Brazil
 
-**Coursera Global Translator Community**
-
-*English Translator*
-
-*07/2020--present*
-
-English--Portuguese translator of Coursera Platform videos
-
 **Runner**
 
 *Charity Runner*
@@ -195,6 +187,14 @@ Nonprofit organizations that I have raised money or awareness:
 * Instituto Oncoclínicas -- cancer campaign: "O câncer não espera. Cuide-se já";
 * Projeto Assistencial Novo Céu -- attend people with cerebral palsy;
 * Instituto Olga Kos -- shelter people with intellectual disabilities.
+
+**Coursera Global Translator Community**
+
+*English Translator*
+
+*07/2020--12/2020*
+
+English--Portuguese translator of Coursera Platform videos
 
 ---
 
