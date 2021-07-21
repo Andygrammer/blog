@@ -233,10 +233,13 @@ English--Portuguese translator of Coursera Platform videos
 🏆07/2021 -- [DeepLearning.AI and Landing AI: Data-Centric AI Competition](https://https-deeplearning-ai.github.io/data-centric-comp/)
 
 Baseline accuracy: 0.6442
+
 My accuracy: 0.7115
 
 🏆07/2021 -- [Mercado Libre: Meli Data Challenge 2021](https://ml-challenge.mercadolibre.com)
+
 Baseline Ranked Probability Score (RPS): 5.1317
+
 My Ranked Probability Score (RPS): coming soon
 
 ---
