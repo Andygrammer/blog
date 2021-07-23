@@ -3,10 +3,10 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **21/07/2021**
+Last update: **24/07/2021**
 
 ## <center> ANDRÉ BATEMARCHI </center>
-<p align="center"> Brazilian, single, 27 years old </p>
+<p align="center"> Brazilian, single, 28 years old </p>
 <p align="center"> Apply for: <b>Data Scientist</b> </p>
 
 ### CONTACT
