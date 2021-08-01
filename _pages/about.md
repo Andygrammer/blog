@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **24/07/2021**
+Last update: **31/08/2021**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 28 years old </p>
@@ -229,6 +229,10 @@ English--Portuguese translator of Coursera Platform videos
 ---
 
 ### DATA SCIENCE COMPETITIONS
+
+🏆07/2021 -- [FIA: Winter Festival Labdata and iFood Datathon 2021](http://labdata.fia.com.br/)
+
+4th place / 200 competitors
 
 🏆07/2021 -- [DeepLearning.AI and Landing AI: Data-Centric AI Competition](https://https-deeplearning-ai.github.io/data-centric-comp/)
 
