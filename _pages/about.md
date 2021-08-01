@@ -230,7 +230,7 @@ English--Portuguese translator of Coursera Platform videos
 
 ### DATA SCIENCE COMPETITIONS
 
-🏆07/2021 -- [FIA: Winter Festival Labdata and iFood Datathon 2021](http://labdata.fia.com.br/)
+🏆07/2021 -- [FIA: Winter Festival Labdata and iFood Datathon 2021](https://lp.labdata.fia.com.br/festival-de-inverno/)
 
 4th place / 200 competitors
 
