@@ -14,7 +14,7 @@ title: My Projects
 
 ## 3. [Cover Song Identification](https://andygrammer.github.io/blog/portfolio/projects/music/cover/regression/forest/neural%20network/ann/mca/2021/05/10/covers-project.html)
 
-## 4. PangYa Interpolation (coming soon...)
+## 4. Coming soon...
 
 For more projects and open source contributions, please visit [my GitHub repositories page](https://github.com/Andygrammer?tab=repositories)
 
