@@ -103,6 +103,22 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 
 ### PROFESSIONAL EXPERIENCE
 
+![Spassu Logo](https://media.glassdoor.com/sqll/821759/spassu-tecnologia-squarelogo-1539862192029.png){:height="100px" width="130px" align="left"}
+
+\
+\
+\
+\
+**Spassu Tecnologia e Serviços**
+
+*Full Developer*
+
+*12/2017--present*
+
+Rio de Janeiro, Brazil
+
+Dot Net Full Full Stack Developer
+
 ![EY Logo](https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg){:height="100px" width="130px" align="left"}
 
 \
@@ -111,7 +127,7 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 \
 **EY**
 
-*RPA Consultant*
+*Consultant*
 
 *12/2017--05/2018*
 
