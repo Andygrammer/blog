@@ -129,7 +129,7 @@ Robotic Process Automation (RPA) developer (Blue Prism and Pega Systems tools)
 
 *Software Developer*
 
-*01/2015--05/2016*
+*07/2014--05/2016*
 
 São Paulo, Brazil
 
