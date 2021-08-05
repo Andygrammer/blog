@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **31/07/2021**
+Last update: **05/08/2021**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 28 years old </p>
@@ -300,6 +300,7 @@ from Top Kagglers (Concluded with Honors)](https://www.coursera.org/account/acco
 \
 <img src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" height="28" width="100">
 \
+2021 -- UX and Design Thinking: [UX & Design Thinking: Experiência do Usuário nos negócios](https://www.udemy.com/certificate/UC-2e4e0c99-1693-4923-aea4-9c157b4e6876)
 2020 -- Data Engineering: [Formação Engenheiro de Dados: Domine o Big Data!](http://ude.my/UC-752683b7-a06b-49df-b37f-2f47e2b6f064)
 
 \
