@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **05/08/2021**
+Last update: **06/08/2021**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 28 years old </p>
@@ -254,7 +254,7 @@ English--Portuguese translator of Coursera Platform videos
 
 Baseline accuracy: 0.6442
 
-My accuracy: 0.7115
+My accuracy: 0.6835
 
 🏆07/2021 -- [Mercado Libre: Meli Data Challenge 2021](https://ml-challenge.mercadolibre.com)
 
