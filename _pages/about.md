@@ -113,7 +113,7 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 
 *Full Developer*
 
-*12/2017--present*
+*08/2021--present*
 
 Rio de Janeiro, Brazil
 
