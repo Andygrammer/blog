@@ -95,6 +95,7 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
     * **Matlab**
     * **Python**
     * **R**
+    * **Docker**
 * Data Science Toolbox
     * **R**
     * Python: **Pandas, NumPy, SciPy, Matplotlib, Plotly, Seaborn, Scikit Learn, TensorFlow, Keras, OpenCV**
