@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **06/08/2021**
+Last update: **11/08/2021**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 28 years old </p>
@@ -246,7 +246,7 @@ English--Portuguese translator of Coursera Platform videos
 
 ### DATA SCIENCE COMPETITIONS
 
-🏆07/2021 -- [FIA: Winter Festival Labdata and iFood Datathon 2021](https://lp.labdata.fia.com.br/festival-de-inverno/)
+🏆07/2021 -- [FIA Business School: Winter Festival Labdata and iFood Datathon 2021](https://lp.labdata.fia.com.br/festival-de-inverno/)
 
 4th place / 200 competitors
 
@@ -354,6 +354,7 @@ from Top Kagglers (Concluded with Honors)](https://www.coursera.org/account/acco
 
 2021 -- [Emotional intelligence](https://drive.conqueronline.com.br/Certificados/Intelig%C3%AAncia%20Emocional/1620753256010-47e1775c-5a02-4b31-862b-332460b21c86.pdf)
 
+2021 -- [Oratory](https://escolaconquer.com.br/oratoria)
 
 ---
 
