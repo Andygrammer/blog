@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **30/08/2021**
+Last update: **04/11/2021**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 28 years old </p>
@@ -12,15 +12,15 @@ Last update: **30/08/2021**
 ### CONTACT
 ![Email Logo](https://cdn1.iconfinder.com/data/icons/outline-imperial-seo/128/SEO_C_50_09.12.14-1_Artboard_15-512.png){:height="30px" width="30px" align="left"} [andrebatemarchi@outlook.com](mailto: andrebatemarchi@outlook.com)
 
-![Linkedin Logo](https://image.flaticon.com/icons/svg/1051/1051384.svg){:height="30px" width="30px" align="left"} [linkedin.com/in/andré-batemarchi](https://linkedin.com/in/andré-batemarchi)
+![Linkedin Logo](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png){:height="30px" width="30px" align="left"} [linkedin.com/in/andré-batemarchi](https://linkedin.com/in/andré-batemarchi)
 
-![GitHub Logo](https://image.flaticon.com/icons/svg/1051/1051377.svg){:height="30px" width="30px" align="left"} [@Andygrammer](https://github.com/Andygrammer/)
+![GitHub Logo](https://cdn1.iconfinder.com/data/icons/feather-2/24/github-512.png){:height="30px" width="30px" align="left"} [@Andygrammer](https://github.com/Andygrammer/)
 
 ![Kaggle Logo](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png){:height="30px" width="30px" align="left"} [@andremarin](https://www.kaggle.com/andremarin)
 
 ![HackerRank Logo](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png){:height="30px" width="30px" align="left"} [@and201456](https://hackerrank.com/and201456?hr_r=1)
 
-![Local Logo](https://image.flaticon.com/icons/svg/684/684809.svg){:height="30px" width="30px" align="left"} São Paulo -- Brazil
+![Location Logo](https://cdn1.iconfinder.com/data/icons/material-design-icons-light/24/map-marker-512.png){:height="30px" width="30px" align="left"} São Paulo -- Brazil
 
 ---
 
