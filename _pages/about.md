@@ -10,7 +10,7 @@ Last update: **30/08/2021**
 <p align="center"> Apply for: <b>Data Scientist</b> </p>
 
 ### CONTACT
-![Email Logo](https://image.flaticon.com/icons/svg/126/126516.svg){:height="30px" width="30px" align="left"} [andrebatemarchi@outlook.com](mailto: andrebatemarchi@outlook.com)
+![Email Logo](https://cdn1.iconfinder.com/data/icons/outline-imperial-seo/128/SEO_C_50_09.12.14-1_Artboard_15-512.png){:height="30px" width="30px" align="left"} [andrebatemarchi@outlook.com](mailto: andrebatemarchi@outlook.com)
 
 ![Linkedin Logo](https://image.flaticon.com/icons/svg/1051/1051384.svg){:height="30px" width="30px" align="left"} [linkedin.com/in/andré-batemarchi](https://linkedin.com/in/andré-batemarchi)
 
