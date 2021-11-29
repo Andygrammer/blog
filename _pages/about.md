@@ -118,7 +118,7 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 
 Rio de Janeiro, Brazil
 
-System development using .NET Core, Angular, PostgreSQL, Git, and CI/CD with AWS.
+System development using .NET Core, Angular, PostgreSQL, Git, and CI/CD with AWS
 
 ![EY Logo](https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg){:height="100px" width="130px" align="left"}
 
