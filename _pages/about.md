@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **04/11/2021**
+Last update: **29/11/2021**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 28 years old </p>
@@ -112,13 +112,13 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 \
 **Spassu Tecnologia e Serviços**
 
-*Full Developer*
+*Mid level Developer*
 
 *08/2021--present*
 
 Rio de Janeiro, Brazil
 
-Dot Net Full Full Stack Developer
+Dot Net Full Stack Developer
 
 ![EY Logo](https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg){:height="100px" width="130px" align="left"}
 
