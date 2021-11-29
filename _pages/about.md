@@ -104,7 +104,7 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 
 ### PROFESSIONAL EXPERIENCE
 
-![Spassu Logo](https://media.glassdoor.com/sqll/821759/spassu-tecnologia-squarelogo-1539862192029.png){:height="100px" width="130px" align="left"}
+![Spassu Logo](https://ncdn0.infojobs.com.br/logos/Company_Evaluation/54856.jpg){:height="100px" width="130px" align="left"}
 
 \
 \
@@ -112,13 +112,13 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 \
 **Spassu Tecnologia e Serviços**
 
-*Mid level Developer*
+*Mid level Full Stack Developer*
 
 *08/2021--present*
 
 Rio de Janeiro, Brazil
 
-Dot Net Full Stack Developer
+System development using .NET Core, Angular, PostgreSQL, Git, and CI/CD with AWS.
 
 ![EY Logo](https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg){:height="100px" width="130px" align="left"}
 
