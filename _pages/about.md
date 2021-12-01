@@ -74,7 +74,7 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
     * [University of California, Irvine Learn English: The Pronunciation of American English Specialization - Course 1: Consonants of American English Pronunciation](https://www.coursera.org/account/accomplishments/records/VZH9QACCSJVX)
     * [University of California, Irvine Learn English: Advanced Speaking and Listening Specialization -- Course 1: Academic Listening and Note-Taking](https://www.coursera.org/account/accomplishments/records/ABS4ZMBEYTW7)
     * [University of California, Irvine Learn English: Advanced Speaking and Listening Specialization - Course 2: Presentations: Speaking so that People Listen](https://www.coursera.org/account/accomplishments/records/K48TYMWX4BZR)
-    * [The Complete English Grammar Course 2021 | Speaking, Grammar (Udemy)](https://www.udemy.com/course/learn-english-grammar-online/)
+    * [The Complete English Grammar Course 2021 Speaking, Grammar (Udemy)](https://www.udemy.com/course/learn-english-grammar-online/)
 * Japanese: **level A1**
     * [Japonês Básico - Escreva em japonês (Udemy)](http://ude.my/UC-75ff17aa-c9a2-4e95-b72c-9253bf4eac26)
     * [Duolingo Japanese Fluency: Basic (Estimated)](https://www.duolingo.com/profile/Andywh)
