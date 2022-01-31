@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **01/12/2021**
+Last update: **31/01/2022**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 28 years old </p>
@@ -356,9 +356,11 @@ from Top Kagglers (Concluded with Honors)](https://www.coursera.org/account/acco
 
 ## OTHERS
 
-2021 -- [Emotional intelligence](https://drive.conqueronline.com.br/Certificados/Intelig%C3%AAncia%20Emocional/1620753256010-47e1775c-5a02-4b31-862b-332460b21c86.pdf)
+2022 -- [Productivity and Time Management](https://www.conqueronline.com.br/certificates/17fc7bc6-b65a-43af-84ab-913da71d8a89)
 
-2021 -- [Communication & Oratory - PASS: OUVAIOUVOA](https://drive.conqueronline.com.br/Certificados/Comunica%C3%A7%C3%A3o%20e%20Orat%C3%B3ria%20-%20Destravando%20a%20sua%20comunica%C3%A7%C3%A3o/1630340418764-53ce8c05-4316-4c91-953f-4c6a60db45a6.pdf)
+2021 -- [Emotional Intelligence](https://www.conqueronline.com.br/certificates/ba2e0f61-ea36-44de-ac41-9916e9daabcb)
+
+2021 -- [Communication & Oratory](https://www.conqueronline.com.br/certificates/e991693e-7d92-47ce-970a-62a83dba3e4c)
 
 ---
 
