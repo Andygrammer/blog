@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **31/01/2022**
+Last update: **10/02/2022**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 28 years old </p>
@@ -235,6 +235,8 @@ English--Portuguese translator of Coursera Platform videos
 ---
 
 ### AWARDS/ACHIEVEMENTS
+
+2022 -- Spassu recognition: highest recognition for performance on projects
 
 2019 -- USP Course Subject: Computational Intelligence (TOP 2 -- Grade A)
 
