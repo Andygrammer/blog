@@ -204,7 +204,8 @@ Nonprofit organizations that I have raised money or awareness:
 * Santa Barbara Athletic Association -- support local youth runners;
 * Instituto Oncoclínicas -- cancer campaign: "O câncer não espera. Cuide-se já";
 * Projeto Assistencial Novo Céu -- attend people with cerebral palsy;
-* Instituto Olga Kos -- shelter people with intellectual disabilities.
+* Instituto Olga Kos -- shelter people with intellectual disabilities;
+* ONG Acãochego -- shelter for rescued dogs.
 
 **Coursera Global Translator Community**
 
