@@ -197,7 +197,7 @@ São Paulo, Brazil
 
 *12/2020--present*
 
-Nonprofit organizations that I have raised money or awareness:
+Nonprofit organizations that I have raised money and awareness:
 
 * Fundação Pró-Sangue -- encouragement and awareness of the importance of blood donation;
 * Casa da Criança Paralítica de Campinas -- care of paralyzed children;
