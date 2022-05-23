@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **10/02/2022**
+Last update: **23/05/2022**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 28 years old </p>
@@ -206,6 +206,20 @@ Nonprofit organizations that I have raised money and awareness:
 * Projeto Assistencial Novo Céu -- attend people with cerebral palsy;
 * Instituto Olga Kos -- shelter people with intellectual disabilities;
 * ONG Acãochego -- shelter for rescued dogs.
+
+**Universidade Paulista**
+
+*Class monitor*
+
+*08/2012--01/2014*
+
+Help new students with difficulties in math classes. Subjects:
+
+* Discrete Mathematics;
+* Statistics and Probability;
+* Analytic Geometry;
+* Linear Algebra;
+* Numerical Analysis.
 
 **Coursera Global Translator Community**
 
