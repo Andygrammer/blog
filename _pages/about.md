@@ -3,7 +3,7 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **23/05/2022**
+Last update: **26/06/2022**
 
 ## <center> ANDRÉ BATEMARCHI </center>
 <p align="center"> Brazilian, single, 28 years old </p>
@@ -105,6 +105,22 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 
 ### PROFESSIONAL EXPERIENCE
 
+![IBM Logo](https://logospng.org/download/ibm/logo-ibm-2048.png){:height="100px" width="130px" align="left"}
+
+\
+\
+\
+\
+**IBM**
+
+*Application Developer*
+
+*06/2022--present*
+
+São Paulo, Brazil
+
+System development using .NET Core.
+
 ![Spassu Logo](https://ncdn0.infojobs.com.br/logos/Company_Evaluation/54856.jpg){:height="100px" width="130px" align="left"}
 
 \
@@ -115,7 +131,7 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 
 *Mid level Full Stack Developer*
 
-*08/2021--present*
+*08/2021--06/2022*
 
 Rio de Janeiro, Brazil
 
@@ -205,7 +221,8 @@ Nonprofit organizations that I have raised money and awareness:
 * Instituto Oncoclínicas -- cancer campaign: "O câncer não espera. Cuide-se já";
 * Projeto Assistencial Novo Céu -- attend people with cerebral palsy;
 * Instituto Olga Kos -- shelter people with intellectual disabilities;
-* ONG Acãochego -- shelter for rescued dogs.
+* ONG Acãochego -- shelter for rescued dogs;
+* Associação Brasileira de Hematologia, Hemoterapia e Terapia Celular (ABHH Um Só Sangue) -– encouragement and awareness of the importance of blood donation.
 
 **Universidade Paulista**
 
