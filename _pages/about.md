@@ -119,7 +119,7 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 
 São Paulo, Brazil
 
-System development using .NET Core.
+System development using .NET Core
 
 ![Spassu Logo](https://ncdn0.infojobs.com.br/logos/Company_Evaluation/54856.jpg){:height="100px" width="130px" align="left"}
 
@@ -222,7 +222,7 @@ Nonprofit organizations that I have raised money and awareness:
 * Projeto Assistencial Novo Céu -- attend people with cerebral palsy;
 * Instituto Olga Kos -- shelter people with intellectual disabilities;
 * ONG Acãochego -- shelter for rescued dogs;
-* Associação Brasileira de Hematologia, Hemoterapia e Terapia Celular (ABHH Um Só Sangue) -– encouragement and awareness of the importance of blood donation.
+* Associação Brasileira de Hematologia, Hemoterapia e Terapia Celular (ABHH, Um Só Sangue) -– encouragement and awareness of the importance of blood donation.
 
 **Universidade Paulista**
 
