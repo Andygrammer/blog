@@ -3,14 +3,13 @@ title: "About Me"
 layout: page
 permalink: /about/
 ---
-Last update: **26/06/2022**
+Last update: **14/06/2023**
 
 ## <center> ANDRÉ BATEMARCHI </center>
-<p align="center"> Brazilian, single, 28 years old </p>
+<p align="center"> Brazilian, single, 29 years old </p>
 <p align="center"> Apply for: <b>Data Scientist</b> </p>
 
 ### CONTACT
-![Email Logo](https://cdn1.iconfinder.com/data/icons/outline-imperial-seo/128/SEO_C_50_09.12.14-1_Artboard_15-512.png){:height="30px" width="30px" align="left"} [andrebatemarchi@outlook.com](mailto: andrebatemarchi@outlook.com)
 
 ![Linkedin Logo](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png){:height="30px" width="30px" align="left"} [linkedin.com/in/andré-batemarchi](https://linkedin.com/in/andré-batemarchi)
 
@@ -105,8 +104,6 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 
 ### PROFESSIONAL EXPERIENCE
 
-![IBM Logo](https://logospng.org/download/ibm/logo-ibm-2048.png){:height="100px" width="130px" align="left"}
-
 \
 \
 \
@@ -120,8 +117,6 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 São Paulo, Brazil
 
 System development using .NET Core
-
-![Spassu Logo](https://ncdn0.infojobs.com.br/logos/Company_Evaluation/54856.jpg){:height="100px" width="130px" align="left"}
 
 \
 \
@@ -137,8 +132,6 @@ Rio de Janeiro, Brazil
 
 System development using .NET Core, Angular, PostgreSQL, Git, and CI/CD with AWS
 
-![EY Logo](https://cdn.worldvectorlogo.com/logos/ernst-young-ey.svg){:height="100px" width="130px" align="left"}
-
 \
 \
 \
@@ -152,8 +145,6 @@ System development using .NET Core, Angular, PostgreSQL, Git, and CI/CD with AWS
 São Paulo, Brazil
 
 Robotic Process Automation (RPA) developer (Blue Prism and Pega Systems tools)
-
-![BRQ Logo](https://blog.brq.com/wp-content/uploads/2020/04/94820a1cd955-Logo_BRQ_versao_1__1_.png){:height="100px" width="130px" align="left"}
 
 \
 \
@@ -250,23 +241,24 @@ English--Portuguese translator of Coursera Platform videos
 
 ### CERTIFICATIONS
 
-![OCA Logo 1](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px" align="left"}
-![OCA Logo 2](https://images.youracclaim.com/size/340x340/images/b13b44ff-165d-4337-80e1-675c7d61f6c6/Oracle-Certification-badge_OC-Associate600X600.png){:height="100px" width="100px" align="left"}
-![Cisco Logo](https://3m03xw3xmaeb36t27t2y40of-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/CCENT.jpg){:height="100px" width="100px" align="left"}
-![Databricks Logo 1](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33603375){:height="100px" width="100px" align="left"}
-![Databricks Logo 2](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/34285779){:height="100px" width="100px" align="left"}
-&nbsp;
-\
-\
-\
-&nbsp;
-* [OCA Java SE 8 Programmer](https://www.youracclaim.com/badges/a7a7f212-522d-4973-9dda-6c8d9c4eeb66)
-* [OCA SQL Certified Expert](https://education.oracle.com/pt_BR/oracle-database-sql-certified-associate/trackp_457)
-* [Cisco -- Interconnecting Cisco Networking Devices Part 1 (640-822 ICND1)](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/100-105-icnd1.html)
+<p align="left"> 
+  <img src="./images/azure1.png" alt="Microsoft: Designing and Implementing Microsoft DevOps Solutions (AZ-400)" width="100" height="100">
+  <img src="./images/safe.png" alt="SAFe® 6 Practitioner" width="100" height="100">
+  <img src="./images/java.png" alt="Oracle: Java SE 8 Programmer I (1Z0-808)" width="100" height="100">
+  <img src="./images/sql.png" alt="Oracle: SQL Certified Expert (1Z0-047)" width="100" height="100">
+</p>
 
 ---
 
 ### AWARDS/ACHIEVEMENTS
+
+2023 -- IBM Champion Learner - Gold (2023): 200 hours+ of learning
+
+2022 -- IBM Champion Learner - Gold (2022): 200 hours+ of learning
+
+2022 -- Civil Service Examination: Petrobras - Approved
+
+2022 -- Civil Service Examination: Cremesp - Approved and Classified
 
 2022 -- Spassu recognition: highest recognition for performance on projects
 
