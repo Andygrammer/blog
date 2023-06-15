@@ -392,8 +392,6 @@ from Top Kagglers (Concluded with Honors)](https://www.coursera.org/account/acco
 
 ### COURSES IN PROGRESS
 
-DataBricks: Data Engineer Nanodegree
-
 Kaggle: Data Visualization
 
 ---
