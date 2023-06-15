@@ -234,9 +234,14 @@ English--Portuguese translator of Coursera Platform videos
 ### CERTIFICATIONS
 
 ![Microsoft: Designing and Implementing Microsoft DevOps Solutions (AZ-400)](./../images/azure1.png){:height="100px" width="100px" align="left"}
-![SAFe® 6 Practitioner](./../images/safe.png.png){:height="30px" width="100px" align="left"}
+![SAFe® 6 Practitioner](./../images/safe.png){:height="30px" width="100px" align="left"}
 ![Oracle: Java SE 8 Programmer I (1Z0-808)](./../images/java.png){:height="100px" width="100px" align="left"}
 ![Oracle: SQL Certified Expert (1Z0-047)](./../images/sql.png){:height="100px" width="100px" align="left"}
+
+\
+\
+\
+\
 
 ---
 
