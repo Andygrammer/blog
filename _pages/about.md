@@ -106,8 +106,6 @@ Course Project: "Uso do Perceptron Multicamadas para Reconhecimento de Captchas"
 
 \
 \
-\
-\
 **IBM**
 
 *Application Developer*
@@ -118,8 +116,6 @@ São Paulo, Brazil
 
 System development using .NET Core
 
-\
-\
 \
 \
 **Spassu Tecnologia e Serviços**
@@ -134,8 +130,6 @@ System development using .NET Core, Angular, PostgreSQL, Git, and CI/CD with AWS
 
 \
 \
-\
-\
 **EY**
 
 *Consultant*
@@ -146,8 +140,6 @@ São Paulo, Brazil
 
 Robotic Process Automation (RPA) developer (Blue Prism and Pega Systems tools)
 
-\
-\
 \
 \
 **BRQ**
@@ -242,10 +234,10 @@ English--Portuguese translator of Coursera Platform videos
 ### CERTIFICATIONS
 
 <p align="left"> 
-  <img src="./images/azure1.png" alt="Microsoft: Designing and Implementing Microsoft DevOps Solutions (AZ-400)" width="100" height="100">
-  <img src="./images/safe.png" alt="SAFe® 6 Practitioner" width="100" height="100">
-  <img src="./images/java.png" alt="Oracle: Java SE 8 Programmer I (1Z0-808)" width="100" height="100">
-  <img src="./images/sql.png" alt="Oracle: SQL Certified Expert (1Z0-047)" width="100" height="100">
+  <img src="./../images/azure1.png" alt="Microsoft: Designing and Implementing Microsoft DevOps Solutions (AZ-400)" width="100" height="100">
+  <img src="./../images/safe.png" alt="SAFe® 6 Practitioner" width="100" height="100">
+  <img src="./../images/java.png" alt="Oracle: Java SE 8 Programmer I (1Z0-808)" width="100" height="100">
+  <img src="./../images/sql.png" alt="Oracle: SQL Certified Expert (1Z0-047)" width="100" height="100">
 </p>
 
 ---
