@@ -233,12 +233,10 @@ English--Portuguese translator of Coursera Platform videos
 
 ### CERTIFICATIONS
 
-<p align="left"> 
-  <img src="./../images/azure1.png" alt="Microsoft: Designing and Implementing Microsoft DevOps Solutions (AZ-400)" width="100" height="100">
-  <img src="./../images/safe.png" alt="SAFe® 6 Practitioner" width="100" height="100">
-  <img src="./../images/java.png" alt="Oracle: Java SE 8 Programmer I (1Z0-808)" width="100" height="100">
-  <img src="./../images/sql.png" alt="Oracle: SQL Certified Expert (1Z0-047)" width="100" height="100">
-</p>
+![Microsoft: Designing and Implementing Microsoft DevOps Solutions (AZ-400)](./../images/azure1.png){:height="100px" width="100px" align="left"}
+![SAFe® 6 Practitioner](./../images/safe.png.png){:height="30px" width="100px" align="left"}
+![Oracle: Java SE 8 Programmer I (1Z0-808)](./../images/java.png){:height="100px" width="100px" align="left"}
+![Oracle: SQL Certified Expert (1Z0-047)](./../images/sql.png){:height="100px" width="100px" align="left"}
 
 ---
 
